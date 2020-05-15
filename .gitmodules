@@ -1,0 +1,3 @@
+[submodule "mathc"]
+	path = mathc
+	url = https://github.com/patriciogonzalezvivo/glslViewer/wiki/Using-GlslViewer
