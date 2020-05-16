@@ -7,7 +7,6 @@
 !_TAG_PROGRAM_VERSION	0.0.0	/7918d19f/
 Circle	circle.lua	/^function Circle(r, resolution)$/;"	f
 Cube	cube.lua	/^function Cube(size)$/;"	f
-Loop:fill	loop.lua	/^function Loop:fill(self)$/;"	f
 MACOS	mathc/mathc.h	/^#define MACOS /;"	d
 MASIN	mathc/mathc.h	/^#define MASIN /;"	d
 MAT2_SIZE	mathc/mathc.h	/^#define MAT2_SIZE /;"	d
