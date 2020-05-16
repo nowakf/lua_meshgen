@@ -1,0 +1,1106 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/7918d19f/
+Circle	circle.lua	/^function Circle(r, resolution)$/;"	f
+Cube	cube.lua	/^function Cube(size)$/;"	f
+Loop:fill	loop.lua	/^function Loop:fill(self)$/;"	f
+MACOS	mathc/mathc.h	/^#define MACOS /;"	d
+MASIN	mathc/mathc.h	/^#define MASIN /;"	d
+MAT2_SIZE	mathc/mathc.h	/^#define MAT2_SIZE /;"	d
+MAT3_SIZE	mathc/mathc.h	/^#define MAT3_SIZE /;"	d
+MAT4_SIZE	mathc/mathc.h	/^#define MAT4_SIZE /;"	d
+MATAN2	mathc/mathc.h	/^#define MATAN2 /;"	d
+MATHC_H	mathc/mathc.h	/^#define MATHC_H$/;"	d
+MATHC_USE_EASING_FUNCTIONS	mathc/mathc.h	/^#define MATHC_USE_EASING_FUNCTIONS$/;"	d
+MATHC_USE_FLOATING_POINT	mathc/mathc.h	/^#define MATHC_USE_FLOATING_POINT$/;"	d
+MATHC_USE_INT	mathc/mathc.h	/^#define MATHC_USE_INT$/;"	d
+MATHC_USE_INT32	mathc/mathc.h	/^#define MATHC_USE_INT32$/;"	d
+MATHC_USE_POINTER_STRUCT_FUNCTIONS	mathc/mathc.h	/^#define MATHC_USE_POINTER_STRUCT_FUNCTIONS$/;"	d
+MATHC_USE_SINGLE_FLOATING_POINT	mathc/mathc.h	/^#define MATHC_USE_SINGLE_FLOATING_POINT$/;"	d
+MATHC_USE_STRUCT_FUNCTIONS	mathc/mathc.h	/^#define MATHC_USE_STRUCT_FUNCTIONS$/;"	d
+MATHC_VERSION_DD	mathc/mathc.h	/^#define MATHC_VERSION_DD /;"	d
+MATHC_VERSION_MICRO	mathc/mathc.h	/^#define MATHC_VERSION_MICRO /;"	d
+MATHC_VERSION_MM	mathc/mathc.h	/^#define MATHC_VERSION_MM /;"	d
+MATHC_VERSION_YYYY	mathc/mathc.h	/^#define MATHC_VERSION_YYYY /;"	d
+MCEIL	mathc/mathc.h	/^#define MCEIL /;"	d
+MCOS	mathc/mathc.h	/^#define MCOS /;"	d
+MDEGREES	mathc/mathc.h	/^#define MDEGREES(/;"	d
+MFABS	mathc/mathc.h	/^#define MFABS /;"	d
+MFLOAT_C	mathc/mathc.h	/^#define MFLOAT_C(/;"	d
+MFLOOR	mathc/mathc.h	/^#define MFLOOR /;"	d
+MFLT_EPSILON	mathc/mathc.h	/^#define MFLT_EPSILON /;"	d
+MFMAX	mathc/mathc.h	/^#define MFMAX /;"	d
+MFMIN	mathc/mathc.h	/^#define MFMIN /;"	d
+MINT_MAX	mathc/mathc.h	/^#define MINT_MAX /;"	d
+MINT_MIN	mathc/mathc.h	/^#define MINT_MIN /;"	d
+MPI	mathc/mathc.h	/^#define MPI /;"	d
+MPI_2	mathc/mathc.h	/^#define MPI_2 /;"	d
+MPI_4	mathc/mathc.h	/^#define MPI_4 /;"	d
+MPOW	mathc/mathc.h	/^#define MPOW /;"	d
+MRADIANS	mathc/mathc.h	/^#define MRADIANS(/;"	d
+MROUND	mathc/mathc.h	/^#define MROUND /;"	d
+MSIN	mathc/mathc.h	/^#define MSIN /;"	d
+MSQRT	mathc/mathc.h	/^#define MSQRT /;"	d
+MTAN	mathc/mathc.h	/^#define MTAN /;"	d
+Mesh:__concat	mesh.lua	/^function Mesh:__concat(b)$/;"	f
+Mesh:new	mesh.lua	/^function Mesh:new(o)$/;"	f
+Mesh:rotate	mesh.lua	/^function Mesh:rotate(x, y, z, theta)$/;"	f
+Mesh:scale	mesh.lua	/^function Mesh:scale(x, y, z)$/;"	f
+Mesh:translate	mesh.lua	/^function Mesh:translate(x, y, z)$/;"	f
+Mesh:write	mesh.lua	/^function Mesh:write(path)$/;"	f
+QUAT_SIZE	mathc/mathc.h	/^#define QUAT_SIZE /;"	d
+VEC2_SIZE	mathc/mathc.h	/^#define VEC2_SIZE /;"	d
+VEC3_SIZE	mathc/mathc.h	/^#define VEC3_SIZE /;"	d
+VEC4_SIZE	mathc/mathc.h	/^#define VEC4_SIZE /;"	d
+__add	vmath.lua	/^	__add = function(a, b) $/;"	f
+__anonc0333d72010a	mathc_stripped.h	/^ union {$/;"	u	struct:vec2i
+__anonc0333d720208	mathc_stripped.h	/^  struct {$/;"	s	union:vec2i::__anonc0333d72010a
+__anonc0333d72030a	mathc_stripped.h	/^ union {$/;"	u	struct:vec3i
+__anonc0333d720408	mathc_stripped.h	/^  struct {$/;"	s	union:vec3i::__anonc0333d72030a
+__anonc0333d72050a	mathc_stripped.h	/^ union {$/;"	u	struct:vec4i
+__anonc0333d720608	mathc_stripped.h	/^  struct {$/;"	s	union:vec4i::__anonc0333d72050a
+__anonc0333d72070a	mathc_stripped.h	/^ union {$/;"	u	struct:vec2
+__anonc0333d720808	mathc_stripped.h	/^  struct {$/;"	s	union:vec2::__anonc0333d72070a
+__anonc0333d72090a	mathc_stripped.h	/^ union {$/;"	u	struct:vec3
+__anonc0333d720a08	mathc_stripped.h	/^  struct {$/;"	s	union:vec3::__anonc0333d72090a
+__anonc0333d720b0a	mathc_stripped.h	/^ union {$/;"	u	struct:vec4
+__anonc0333d720c08	mathc_stripped.h	/^  struct {$/;"	s	union:vec4::__anonc0333d720b0a
+__anonc0333d720d0a	mathc_stripped.h	/^ union {$/;"	u	struct:quat
+__anonc0333d720e08	mathc_stripped.h	/^  struct {$/;"	s	union:quat::__anonc0333d720d0a
+__anonc0333d720f0a	mathc_stripped.h	/^ union {$/;"	u	struct:mat2
+__anonc0333d721008	mathc_stripped.h	/^  struct {$/;"	s	union:mat2::__anonc0333d720f0a
+__anonc0333d72110a	mathc_stripped.h	/^ union {$/;"	u	struct:mat3
+__anonc0333d721208	mathc_stripped.h	/^  struct {$/;"	s	union:mat3::__anonc0333d72110a
+__anonc0333d72130a	mathc_stripped.h	/^ union {$/;"	u	struct:mat4
+__anonc0333d721408	mathc_stripped.h	/^  struct {$/;"	s	union:mat4::__anonc0333d72130a
+__anonf469b2e4010a	mathc/mathc.h	/^	union {$/;"	u	struct:vec2i
+__anonf469b2e40208	mathc/mathc.h	/^		struct {$/;"	s	union:vec2i::__anonf469b2e4010a
+__anonf469b2e4030a	mathc/mathc.h	/^	union {$/;"	u	struct:vec3i
+__anonf469b2e40408	mathc/mathc.h	/^		struct {$/;"	s	union:vec3i::__anonf469b2e4030a
+__anonf469b2e4050a	mathc/mathc.h	/^	union {$/;"	u	struct:vec4i
+__anonf469b2e40608	mathc/mathc.h	/^		struct {$/;"	s	union:vec4i::__anonf469b2e4050a
+__anonf469b2e4070a	mathc/mathc.h	/^	union {$/;"	u	struct:vec2
+__anonf469b2e40808	mathc/mathc.h	/^		struct {$/;"	s	union:vec2::__anonf469b2e4070a
+__anonf469b2e4090a	mathc/mathc.h	/^	union {$/;"	u	struct:vec3
+__anonf469b2e40a08	mathc/mathc.h	/^		struct {$/;"	s	union:vec3::__anonf469b2e4090a
+__anonf469b2e40b0a	mathc/mathc.h	/^	union {$/;"	u	struct:vec4
+__anonf469b2e40c08	mathc/mathc.h	/^		struct {$/;"	s	union:vec4::__anonf469b2e40b0a
+__anonf469b2e40d0a	mathc/mathc.h	/^	union {$/;"	u	struct:quat
+__anonf469b2e40e08	mathc/mathc.h	/^		struct {$/;"	s	union:quat::__anonf469b2e40d0a
+__anonf469b2e40f0a	mathc/mathc.h	/^	union {$/;"	u	struct:mat2
+__anonf469b2e41008	mathc/mathc.h	/^		struct {$/;"	s	union:mat2::__anonf469b2e40f0a
+__anonf469b2e4110a	mathc/mathc.h	/^	union {$/;"	u	struct:mat3
+__anonf469b2e41208	mathc/mathc.h	/^		struct {$/;"	s	union:mat3::__anonf469b2e4110a
+__anonf469b2e4130a	mathc/mathc.h	/^	union {$/;"	u	struct:mat4
+__anonf469b2e41408	mathc/mathc.h	/^		struct {$/;"	s	union:mat4::__anonf469b2e4130a
+__eq	vmath.lua	/^	__eq = function(a, b)$/;"	f
+__mul	vmath.lua	/^	__mul = function(a, b)$/;"	f
+__sub	vmath.lua	/^	__sub = function(a, b)$/;"	f
+__unm	vmath.lua	/^	__unm = function(self) $/;"	f
+back_ease_in	mathc/mathc.c	/^mfloat_t back_ease_in(mfloat_t f)$/;"	f	typeref:typename:mfloat_t
+back_ease_in_out	mathc/mathc.c	/^mfloat_t back_ease_in_out(mfloat_t f)$/;"	f	typeref:typename:mfloat_t
+back_ease_out	mathc/mathc.c	/^mfloat_t back_ease_out(mfloat_t f)$/;"	f	typeref:typename:mfloat_t
+bounce_ease_in	mathc/mathc.c	/^mfloat_t bounce_ease_in(mfloat_t f)$/;"	f	typeref:typename:mfloat_t
+bounce_ease_in_out	mathc/mathc.c	/^mfloat_t bounce_ease_in_out(mfloat_t f)$/;"	f	typeref:typename:mfloat_t
+bounce_ease_out	mathc/mathc.c	/^mfloat_t bounce_ease_out(mfloat_t f)$/;"	f	typeref:typename:mfloat_t
+circular_ease_in	mathc/mathc.c	/^mfloat_t circular_ease_in(mfloat_t f)$/;"	f	typeref:typename:mfloat_t
+circular_ease_in_out	mathc/mathc.c	/^mfloat_t circular_ease_in_out(mfloat_t f)$/;"	f	typeref:typename:mfloat_t
+circular_ease_out	mathc/mathc.c	/^mfloat_t circular_ease_out(mfloat_t f)$/;"	f	typeref:typename:mfloat_t
+clampf	mathc/mathc.c	/^mfloat_t clampf(mfloat_t value, mfloat_t min, mfloat_t max)$/;"	f	typeref:typename:mfloat_t
+clampi	mathc/mathc.c	/^mint_t clampi(mint_t value, mint_t min, mint_t max)$/;"	f	typeref:typename:mint_t
+cross	vmath.lua	/^		cross = function(self, other)$/;"	f
+cubic_ease_in	mathc/mathc.c	/^mfloat_t cubic_ease_in(mfloat_t f)$/;"	f	typeref:typename:mfloat_t
+cubic_ease_in_out	mathc/mathc.c	/^mfloat_t cubic_ease_in_out(mfloat_t f)$/;"	f	typeref:typename:mfloat_t
+cubic_ease_out	mathc/mathc.c	/^mfloat_t cubic_ease_out(mfloat_t f)$/;"	f	typeref:typename:mfloat_t
+distance	vmath.lua	/^		distance = function(self, other)$/;"	f
+dot	vmath.lua	/^		dot = function(self, other)$/;"	f
+elastic_ease_in	mathc/mathc.c	/^mfloat_t elastic_ease_in(mfloat_t f)$/;"	f	typeref:typename:mfloat_t
+elastic_ease_in_out	mathc/mathc.c	/^mfloat_t elastic_ease_in_out(mfloat_t f)$/;"	f	typeref:typename:mfloat_t
+elastic_ease_out	mathc/mathc.c	/^mfloat_t elastic_ease_out(mfloat_t f)$/;"	f	typeref:typename:mfloat_t
+exponential_ease_in	mathc/mathc.c	/^mfloat_t exponential_ease_in(mfloat_t f)$/;"	f	typeref:typename:mfloat_t
+exponential_ease_in_out	mathc/mathc.c	/^mfloat_t exponential_ease_in_out(mfloat_t f)$/;"	f	typeref:typename:mfloat_t
+exponential_ease_out	mathc/mathc.c	/^mfloat_t exponential_ease_out(mfloat_t f)$/;"	f	typeref:typename:mfloat_t
+length	vmath.lua	/^		length = function(self)$/;"	f
+m11	mathc/mathc.h	/^			mfloat_t m11;$/;"	m	struct:mat2::__anonf469b2e40f0a::__anonf469b2e41008	typeref:typename:mfloat_t
+m11	mathc/mathc.h	/^			mfloat_t m11;$/;"	m	struct:mat3::__anonf469b2e4110a::__anonf469b2e41208	typeref:typename:mfloat_t
+m11	mathc/mathc.h	/^			mfloat_t m11;$/;"	m	struct:mat4::__anonf469b2e4130a::__anonf469b2e41408	typeref:typename:mfloat_t
+m11	mathc_stripped.h	/^   mfloat_t m11;$/;"	m	struct:mat2::__anonc0333d720f0a::__anonc0333d721008	typeref:typename:mfloat_t
+m11	mathc_stripped.h	/^   mfloat_t m11;$/;"	m	struct:mat3::__anonc0333d72110a::__anonc0333d721208	typeref:typename:mfloat_t
+m11	mathc_stripped.h	/^   mfloat_t m11;$/;"	m	struct:mat4::__anonc0333d72130a::__anonc0333d721408	typeref:typename:mfloat_t
+m12	mathc/mathc.h	/^			mfloat_t m12;$/;"	m	struct:mat2::__anonf469b2e40f0a::__anonf469b2e41008	typeref:typename:mfloat_t
+m12	mathc/mathc.h	/^			mfloat_t m12;$/;"	m	struct:mat3::__anonf469b2e4110a::__anonf469b2e41208	typeref:typename:mfloat_t
+m12	mathc/mathc.h	/^			mfloat_t m12;$/;"	m	struct:mat4::__anonf469b2e4130a::__anonf469b2e41408	typeref:typename:mfloat_t
+m12	mathc_stripped.h	/^   mfloat_t m12;$/;"	m	struct:mat2::__anonc0333d720f0a::__anonc0333d721008	typeref:typename:mfloat_t
+m12	mathc_stripped.h	/^   mfloat_t m12;$/;"	m	struct:mat3::__anonc0333d72110a::__anonc0333d721208	typeref:typename:mfloat_t
+m12	mathc_stripped.h	/^   mfloat_t m12;$/;"	m	struct:mat4::__anonc0333d72130a::__anonc0333d721408	typeref:typename:mfloat_t
+m13	mathc/mathc.h	/^			mfloat_t m13;$/;"	m	struct:mat3::__anonf469b2e4110a::__anonf469b2e41208	typeref:typename:mfloat_t
+m13	mathc/mathc.h	/^			mfloat_t m13;$/;"	m	struct:mat4::__anonf469b2e4130a::__anonf469b2e41408	typeref:typename:mfloat_t
+m13	mathc_stripped.h	/^   mfloat_t m13;$/;"	m	struct:mat3::__anonc0333d72110a::__anonc0333d721208	typeref:typename:mfloat_t
+m13	mathc_stripped.h	/^   mfloat_t m13;$/;"	m	struct:mat4::__anonc0333d72130a::__anonc0333d721408	typeref:typename:mfloat_t
+m14	mathc/mathc.h	/^			mfloat_t m14;$/;"	m	struct:mat4::__anonf469b2e4130a::__anonf469b2e41408	typeref:typename:mfloat_t
+m14	mathc_stripped.h	/^   mfloat_t m14;$/;"	m	struct:mat4::__anonc0333d72130a::__anonc0333d721408	typeref:typename:mfloat_t
+m21	mathc/mathc.h	/^			mfloat_t m21;$/;"	m	struct:mat2::__anonf469b2e40f0a::__anonf469b2e41008	typeref:typename:mfloat_t
+m21	mathc/mathc.h	/^			mfloat_t m21;$/;"	m	struct:mat3::__anonf469b2e4110a::__anonf469b2e41208	typeref:typename:mfloat_t
+m21	mathc/mathc.h	/^			mfloat_t m21;$/;"	m	struct:mat4::__anonf469b2e4130a::__anonf469b2e41408	typeref:typename:mfloat_t
+m21	mathc_stripped.h	/^   mfloat_t m21;$/;"	m	struct:mat2::__anonc0333d720f0a::__anonc0333d721008	typeref:typename:mfloat_t
+m21	mathc_stripped.h	/^   mfloat_t m21;$/;"	m	struct:mat3::__anonc0333d72110a::__anonc0333d721208	typeref:typename:mfloat_t
+m21	mathc_stripped.h	/^   mfloat_t m21;$/;"	m	struct:mat4::__anonc0333d72130a::__anonc0333d721408	typeref:typename:mfloat_t
+m22	mathc/mathc.h	/^			mfloat_t m22;$/;"	m	struct:mat2::__anonf469b2e40f0a::__anonf469b2e41008	typeref:typename:mfloat_t
+m22	mathc/mathc.h	/^			mfloat_t m22;$/;"	m	struct:mat3::__anonf469b2e4110a::__anonf469b2e41208	typeref:typename:mfloat_t
+m22	mathc/mathc.h	/^			mfloat_t m22;$/;"	m	struct:mat4::__anonf469b2e4130a::__anonf469b2e41408	typeref:typename:mfloat_t
+m22	mathc_stripped.h	/^   mfloat_t m22;$/;"	m	struct:mat2::__anonc0333d720f0a::__anonc0333d721008	typeref:typename:mfloat_t
+m22	mathc_stripped.h	/^   mfloat_t m22;$/;"	m	struct:mat3::__anonc0333d72110a::__anonc0333d721208	typeref:typename:mfloat_t
+m22	mathc_stripped.h	/^   mfloat_t m22;$/;"	m	struct:mat4::__anonc0333d72130a::__anonc0333d721408	typeref:typename:mfloat_t
+m23	mathc/mathc.h	/^			mfloat_t m23;$/;"	m	struct:mat3::__anonf469b2e4110a::__anonf469b2e41208	typeref:typename:mfloat_t
+m23	mathc/mathc.h	/^			mfloat_t m23;$/;"	m	struct:mat4::__anonf469b2e4130a::__anonf469b2e41408	typeref:typename:mfloat_t
+m23	mathc_stripped.h	/^   mfloat_t m23;$/;"	m	struct:mat3::__anonc0333d72110a::__anonc0333d721208	typeref:typename:mfloat_t
+m23	mathc_stripped.h	/^   mfloat_t m23;$/;"	m	struct:mat4::__anonc0333d72130a::__anonc0333d721408	typeref:typename:mfloat_t
+m24	mathc/mathc.h	/^			mfloat_t m24;$/;"	m	struct:mat4::__anonf469b2e4130a::__anonf469b2e41408	typeref:typename:mfloat_t
+m24	mathc_stripped.h	/^   mfloat_t m24;$/;"	m	struct:mat4::__anonc0333d72130a::__anonc0333d721408	typeref:typename:mfloat_t
+m31	mathc/mathc.h	/^			mfloat_t m31;$/;"	m	struct:mat3::__anonf469b2e4110a::__anonf469b2e41208	typeref:typename:mfloat_t
+m31	mathc/mathc.h	/^			mfloat_t m31;$/;"	m	struct:mat4::__anonf469b2e4130a::__anonf469b2e41408	typeref:typename:mfloat_t
+m31	mathc_stripped.h	/^   mfloat_t m31;$/;"	m	struct:mat3::__anonc0333d72110a::__anonc0333d721208	typeref:typename:mfloat_t
+m31	mathc_stripped.h	/^   mfloat_t m31;$/;"	m	struct:mat4::__anonc0333d72130a::__anonc0333d721408	typeref:typename:mfloat_t
+m32	mathc/mathc.h	/^			mfloat_t m32;$/;"	m	struct:mat3::__anonf469b2e4110a::__anonf469b2e41208	typeref:typename:mfloat_t
+m32	mathc/mathc.h	/^			mfloat_t m32;$/;"	m	struct:mat4::__anonf469b2e4130a::__anonf469b2e41408	typeref:typename:mfloat_t
+m32	mathc_stripped.h	/^   mfloat_t m32;$/;"	m	struct:mat3::__anonc0333d72110a::__anonc0333d721208	typeref:typename:mfloat_t
+m32	mathc_stripped.h	/^   mfloat_t m32;$/;"	m	struct:mat4::__anonc0333d72130a::__anonc0333d721408	typeref:typename:mfloat_t
+m33	mathc/mathc.h	/^			mfloat_t m33;$/;"	m	struct:mat3::__anonf469b2e4110a::__anonf469b2e41208	typeref:typename:mfloat_t
+m33	mathc/mathc.h	/^			mfloat_t m33;$/;"	m	struct:mat4::__anonf469b2e4130a::__anonf469b2e41408	typeref:typename:mfloat_t
+m33	mathc_stripped.h	/^   mfloat_t m33;$/;"	m	struct:mat3::__anonc0333d72110a::__anonc0333d721208	typeref:typename:mfloat_t
+m33	mathc_stripped.h	/^   mfloat_t m33;$/;"	m	struct:mat4::__anonc0333d72130a::__anonc0333d721408	typeref:typename:mfloat_t
+m34	mathc/mathc.h	/^			mfloat_t m34;$/;"	m	struct:mat4::__anonf469b2e4130a::__anonf469b2e41408	typeref:typename:mfloat_t
+m34	mathc_stripped.h	/^   mfloat_t m34;$/;"	m	struct:mat4::__anonc0333d72130a::__anonc0333d721408	typeref:typename:mfloat_t
+m41	mathc/mathc.h	/^			mfloat_t m41;$/;"	m	struct:mat4::__anonf469b2e4130a::__anonf469b2e41408	typeref:typename:mfloat_t
+m41	mathc_stripped.h	/^   mfloat_t m41;$/;"	m	struct:mat4::__anonc0333d72130a::__anonc0333d721408	typeref:typename:mfloat_t
+m42	mathc/mathc.h	/^			mfloat_t m42;$/;"	m	struct:mat4::__anonf469b2e4130a::__anonf469b2e41408	typeref:typename:mfloat_t
+m42	mathc_stripped.h	/^   mfloat_t m42;$/;"	m	struct:mat4::__anonc0333d72130a::__anonc0333d721408	typeref:typename:mfloat_t
+m43	mathc/mathc.h	/^			mfloat_t m43;$/;"	m	struct:mat4::__anonf469b2e4130a::__anonf469b2e41408	typeref:typename:mfloat_t
+m43	mathc_stripped.h	/^   mfloat_t m43;$/;"	m	struct:mat4::__anonc0333d72130a::__anonc0333d721408	typeref:typename:mfloat_t
+m44	mathc/mathc.h	/^			mfloat_t m44;$/;"	m	struct:mat4::__anonf469b2e4130a::__anonf469b2e41408	typeref:typename:mfloat_t
+m44	mathc_stripped.h	/^   mfloat_t m44;$/;"	m	struct:mat4::__anonc0333d72130a::__anonc0333d721408	typeref:typename:mfloat_t
+mat2	mathc/mathc.c	/^mfloat_t *mat2(mfloat_t *result, mfloat_t m11, mfloat_t m12, mfloat_t m21, mfloat_t m22)$/;"	f	typeref:typename:mfloat_t *
+mat2	mathc/mathc.h	/^struct mat2 {$/;"	s
+mat2	mathc_stripped.h	/^struct mat2 {$/;"	s
+mat2_adjugate	mathc/mathc.c	/^mfloat_t *mat2_adjugate(mfloat_t *result, mfloat_t *m0)$/;"	f	typeref:typename:mfloat_t *
+mat2_assign	mathc/mathc.c	/^mfloat_t *mat2_assign(mfloat_t *result, mfloat_t *m0)$/;"	f	typeref:typename:mfloat_t *
+mat2_cofactor	mathc/mathc.c	/^mfloat_t *mat2_cofactor(mfloat_t *result, mfloat_t *m0)$/;"	f	typeref:typename:mfloat_t *
+mat2_determinant	mathc/mathc.c	/^mfloat_t mat2_determinant(mfloat_t *m0)$/;"	f	typeref:typename:mfloat_t
+mat2_identity	mathc/mathc.c	/^mfloat_t *mat2_identity(mfloat_t *result)$/;"	f	typeref:typename:mfloat_t *
+mat2_inverse	mathc/mathc.c	/^mfloat_t *mat2_inverse(mfloat_t *result, mfloat_t *m0)$/;"	f	typeref:typename:mfloat_t *
+mat2_lerp	mathc/mathc.c	/^mfloat_t *mat2_lerp(mfloat_t *result, mfloat_t *m0, mfloat_t *m1, mfloat_t f)$/;"	f	typeref:typename:mfloat_t *
+mat2_multiply	mathc/mathc.c	/^mfloat_t *mat2_multiply(mfloat_t *result, mfloat_t *m0, mfloat_t *m1)$/;"	f	typeref:typename:mfloat_t *
+mat2_multiply_f	mathc/mathc.c	/^mfloat_t *mat2_multiply_f(mfloat_t *result, mfloat_t *m0, mfloat_t f)$/;"	f	typeref:typename:mfloat_t *
+mat2_negative	mathc/mathc.c	/^mfloat_t *mat2_negative(mfloat_t *result, mfloat_t *m0)$/;"	f	typeref:typename:mfloat_t *
+mat2_rotation_z	mathc/mathc.c	/^mfloat_t *mat2_rotation_z(mfloat_t *result, mfloat_t f)$/;"	f	typeref:typename:mfloat_t *
+mat2_scale	mathc/mathc.c	/^mfloat_t *mat2_scale(mfloat_t *result, mfloat_t *m0, mfloat_t *v0)$/;"	f	typeref:typename:mfloat_t *
+mat2_scaling	mathc/mathc.c	/^mfloat_t *mat2_scaling(mfloat_t *result, mfloat_t *v0)$/;"	f	typeref:typename:mfloat_t *
+mat2_transpose	mathc/mathc.c	/^mfloat_t *mat2_transpose(mfloat_t *result, mfloat_t *m0)$/;"	f	typeref:typename:mfloat_t *
+mat2_zero	mathc/mathc.c	/^mfloat_t *mat2_zero(mfloat_t *result)$/;"	f	typeref:typename:mfloat_t *
+mat3	mathc/mathc.c	/^mfloat_t *mat3(mfloat_t *result, mfloat_t m11, mfloat_t m12, mfloat_t m13, mfloat_t m21, mfloat_/;"	f	typeref:typename:mfloat_t *
+mat3	mathc/mathc.h	/^struct mat3 {$/;"	s
+mat3	mathc_stripped.h	/^struct mat3 {$/;"	s
+mat3_assign	mathc/mathc.c	/^mfloat_t *mat3_assign(mfloat_t *result, mfloat_t *m0)$/;"	f	typeref:typename:mfloat_t *
+mat3_cofactor	mathc/mathc.c	/^mfloat_t *mat3_cofactor(mfloat_t *result, mfloat_t *m0)$/;"	f	typeref:typename:mfloat_t *
+mat3_determinant	mathc/mathc.c	/^mfloat_t mat3_determinant(mfloat_t *m0)$/;"	f	typeref:typename:mfloat_t
+mat3_identity	mathc/mathc.c	/^mfloat_t *mat3_identity(mfloat_t *result)$/;"	f	typeref:typename:mfloat_t *
+mat3_inverse	mathc/mathc.c	/^mfloat_t *mat3_inverse(mfloat_t *result, mfloat_t *m0)$/;"	f	typeref:typename:mfloat_t *
+mat3_lerp	mathc/mathc.c	/^mfloat_t *mat3_lerp(mfloat_t *result, mfloat_t *m0, mfloat_t *m1, mfloat_t f)$/;"	f	typeref:typename:mfloat_t *
+mat3_multiply	mathc/mathc.c	/^mfloat_t *mat3_multiply(mfloat_t *result, mfloat_t *m0, mfloat_t *m1)$/;"	f	typeref:typename:mfloat_t *
+mat3_multiply_f	mathc/mathc.c	/^mfloat_t *mat3_multiply_f(mfloat_t *result, mfloat_t *m0, mfloat_t f)$/;"	f	typeref:typename:mfloat_t *
+mat3_negative	mathc/mathc.c	/^mfloat_t *mat3_negative(mfloat_t *result, mfloat_t *m0)$/;"	f	typeref:typename:mfloat_t *
+mat3_rotation_axis	mathc/mathc.c	/^mfloat_t *mat3_rotation_axis(mfloat_t *result, mfloat_t *v0, mfloat_t f)$/;"	f	typeref:typename:mfloat_t *
+mat3_rotation_quat	mathc/mathc.c	/^mfloat_t *mat3_rotation_quat(mfloat_t *result, mfloat_t *q0)$/;"	f	typeref:typename:mfloat_t *
+mat3_rotation_x	mathc/mathc.c	/^mfloat_t *mat3_rotation_x(mfloat_t *result, mfloat_t f)$/;"	f	typeref:typename:mfloat_t *
+mat3_rotation_y	mathc/mathc.c	/^mfloat_t *mat3_rotation_y(mfloat_t *result, mfloat_t f)$/;"	f	typeref:typename:mfloat_t *
+mat3_rotation_z	mathc/mathc.c	/^mfloat_t *mat3_rotation_z(mfloat_t *result, mfloat_t f)$/;"	f	typeref:typename:mfloat_t *
+mat3_scale	mathc/mathc.c	/^mfloat_t *mat3_scale(mfloat_t *result, mfloat_t *m0, mfloat_t *v0)$/;"	f	typeref:typename:mfloat_t *
+mat3_scaling	mathc/mathc.c	/^mfloat_t *mat3_scaling(mfloat_t *result, mfloat_t *v0)$/;"	f	typeref:typename:mfloat_t *
+mat3_transpose	mathc/mathc.c	/^mfloat_t *mat3_transpose(mfloat_t *result, mfloat_t *m0)$/;"	f	typeref:typename:mfloat_t *
+mat3_zero	mathc/mathc.c	/^mfloat_t *mat3_zero(mfloat_t *result)$/;"	f	typeref:typename:mfloat_t *
+mat4	mathc/mathc.c	/^mfloat_t *mat4(mfloat_t *result, mfloat_t m11, mfloat_t m12, mfloat_t m13, mfloat_t m14, mfloat_/;"	f	typeref:typename:mfloat_t *
+mat4	mathc/mathc.h	/^struct mat4 {$/;"	s
+mat4	mathc_stripped.h	/^struct mat4 {$/;"	s
+mat4_assign	mathc/mathc.c	/^mfloat_t *mat4_assign(mfloat_t *result, mfloat_t *m0)$/;"	f	typeref:typename:mfloat_t *
+mat4_cofactor	mathc/mathc.c	/^mfloat_t *mat4_cofactor(mfloat_t *result, mfloat_t *m0)$/;"	f	typeref:typename:mfloat_t *
+mat4_determinant	mathc/mathc.c	/^mfloat_t mat4_determinant(mfloat_t *m0)$/;"	f	typeref:typename:mfloat_t
+mat4_identity	mathc/mathc.c	/^mfloat_t *mat4_identity(mfloat_t *result)$/;"	f	typeref:typename:mfloat_t *
+mat4_inverse	mathc/mathc.c	/^mfloat_t *mat4_inverse(mfloat_t *result, mfloat_t *m0)$/;"	f	typeref:typename:mfloat_t *
+mat4_lerp	mathc/mathc.c	/^mfloat_t *mat4_lerp(mfloat_t *result, mfloat_t *m0, mfloat_t *m1, mfloat_t f)$/;"	f	typeref:typename:mfloat_t *
+mat4_look_at	mathc/mathc.c	/^mfloat_t *mat4_look_at(mfloat_t *result, mfloat_t *position, mfloat_t *target, mfloat_t *up)$/;"	f	typeref:typename:mfloat_t *
+mat4_multiply	mathc/mathc.c	/^mfloat_t *mat4_multiply(mfloat_t *result, mfloat_t *m0, mfloat_t *m1)$/;"	f	typeref:typename:mfloat_t *
+mat4_multiply_f	mathc/mathc.c	/^mfloat_t *mat4_multiply_f(mfloat_t *result, mfloat_t *m0, mfloat_t f)$/;"	f	typeref:typename:mfloat_t *
+mat4_negative	mathc/mathc.c	/^mfloat_t *mat4_negative(mfloat_t *result, mfloat_t *m0)$/;"	f	typeref:typename:mfloat_t *
+mat4_ortho	mathc/mathc.c	/^mfloat_t *mat4_ortho(mfloat_t *result, mfloat_t l, mfloat_t r, mfloat_t b, mfloat_t t, mfloat_t /;"	f	typeref:typename:mfloat_t *
+mat4_perspective	mathc/mathc.c	/^mfloat_t *mat4_perspective(mfloat_t *result, mfloat_t fov_y, mfloat_t aspect, mfloat_t n, mfloat/;"	f	typeref:typename:mfloat_t *
+mat4_perspective_fov	mathc/mathc.c	/^mfloat_t *mat4_perspective_fov(mfloat_t *result, mfloat_t fov, mfloat_t w, mfloat_t h, mfloat_t /;"	f	typeref:typename:mfloat_t *
+mat4_perspective_infinite	mathc/mathc.c	/^mfloat_t *mat4_perspective_infinite(mfloat_t *result, mfloat_t fov_y, mfloat_t aspect, mfloat_t /;"	f	typeref:typename:mfloat_t *
+mat4_rotation_axis	mathc/mathc.c	/^mfloat_t *mat4_rotation_axis(mfloat_t *result, mfloat_t *v0, mfloat_t f)$/;"	f	typeref:typename:mfloat_t *
+mat4_rotation_quat	mathc/mathc.c	/^mfloat_t *mat4_rotation_quat(mfloat_t *result, mfloat_t *q0)$/;"	f	typeref:typename:mfloat_t *
+mat4_rotation_x	mathc/mathc.c	/^mfloat_t *mat4_rotation_x(mfloat_t *result, mfloat_t f)$/;"	f	typeref:typename:mfloat_t *
+mat4_rotation_y	mathc/mathc.c	/^mfloat_t *mat4_rotation_y(mfloat_t *result, mfloat_t f)$/;"	f	typeref:typename:mfloat_t *
+mat4_rotation_z	mathc/mathc.c	/^mfloat_t *mat4_rotation_z(mfloat_t *result, mfloat_t f)$/;"	f	typeref:typename:mfloat_t *
+mat4_scale	mathc/mathc.c	/^mfloat_t *mat4_scale(mfloat_t *result, mfloat_t *m0, mfloat_t *v0)$/;"	f	typeref:typename:mfloat_t *
+mat4_scaling	mathc/mathc.c	/^mfloat_t *mat4_scaling(mfloat_t *result, mfloat_t *m0, mfloat_t *v0)$/;"	f	typeref:typename:mfloat_t *
+mat4_translate	mathc/mathc.c	/^mfloat_t *mat4_translate(mfloat_t *result, mfloat_t *m0, mfloat_t *v0)$/;"	f	typeref:typename:mfloat_t *
+mat4_translation	mathc/mathc.c	/^mfloat_t *mat4_translation(mfloat_t *result, mfloat_t *m0, mfloat_t *v0)$/;"	f	typeref:typename:mfloat_t *
+mat4_transpose	mathc/mathc.c	/^mfloat_t *mat4_transpose(mfloat_t *result, mfloat_t *m0)$/;"	f	typeref:typename:mfloat_t *
+mat4_zero	mathc/mathc.c	/^mfloat_t *mat4_zero(mfloat_t *result)$/;"	f	typeref:typename:mfloat_t *
+mfloat_t	mathc/mathc.h	/^typedef MATHC_FLOATING_POINT_TYPE mfloat_t;$/;"	t	typeref:typename:MATHC_FLOATING_POINT_TYPE
+mfloat_t	mathc/mathc.h	/^typedef double mfloat_t;$/;"	t	typeref:typename:double
+mfloat_t	mathc/mathc.h	/^typedef float mfloat_t;$/;"	t	typeref:typename:float
+mfloat_t	mathc_stripped.h	/^typedef float mfloat_t;$/;"	t	typeref:typename:float
+mint_t	mathc/mathc.h	/^typedef MATHC_INT_TYPE mint_t;$/;"	t	typeref:typename:MATHC_INT_TYPE
+mint_t	mathc/mathc.h	/^typedef int16_t mint_t;$/;"	t	typeref:typename:int16_t
+mint_t	mathc/mathc.h	/^typedef int32_t mint_t;$/;"	t	typeref:typename:int32_t
+mint_t	mathc/mathc.h	/^typedef int64_t mint_t;$/;"	t	typeref:typename:int64_t
+mint_t	mathc/mathc.h	/^typedef int8_t mint_t;$/;"	t	typeref:typename:int8_t
+mint_t	mathc_stripped.h	/^typedef int32_t mint_t;$/;"	t	typeref:typename:int32_t
+nearly_equal	mathc/mathc.c	/^bool nearly_equal(mfloat_t a, mfloat_t b, mfloat_t epsilon)$/;"	f	typeref:typename:bool
+normalize	vmath.lua	/^		normalize = function(self)$/;"	f
+psmat2	mathc/mathc.c	/^struct mat2 *psmat2(struct mat2 *result, mfloat_t m11, mfloat_t m12, mfloat_t m21, mfloat_t m22)$/;"	f	typeref:struct:mat2 *
+psmat2_adjugate	mathc/mathc.c	/^struct mat2 *psmat2_adjugate(struct mat2 *result, struct mat2 *m0)$/;"	f	typeref:struct:mat2 *
+psmat2_assign	mathc/mathc.c	/^struct mat2 *psmat2_assign(struct mat2 *result, struct mat2 *m0)$/;"	f	typeref:struct:mat2 *
+psmat2_cofactor	mathc/mathc.c	/^struct mat2 *psmat2_cofactor(struct mat2 *result, struct mat2 *m0)$/;"	f	typeref:struct:mat2 *
+psmat2_determinant	mathc/mathc.c	/^mfloat_t psmat2_determinant(struct mat2 *m0)$/;"	f	typeref:typename:mfloat_t
+psmat2_identity	mathc/mathc.c	/^struct mat2 *psmat2_identity(struct mat2 *result)$/;"	f	typeref:struct:mat2 *
+psmat2_inverse	mathc/mathc.c	/^struct mat2 *psmat2_inverse(struct mat2 *result, struct mat2 *m0)$/;"	f	typeref:struct:mat2 *
+psmat2_lerp	mathc/mathc.c	/^struct mat2 *psmat2_lerp(struct mat2 *result, struct mat2 *m0, struct mat2 *m1, mfloat_t f)$/;"	f	typeref:struct:mat2 *
+psmat2_multiply	mathc/mathc.c	/^struct mat2 *psmat2_multiply(struct mat2 *result, struct mat2 *m0, struct mat2 *m1)$/;"	f	typeref:struct:mat2 *
+psmat2_multiply_f	mathc/mathc.c	/^struct mat2 *psmat2_multiply_f(struct mat2 *result, struct mat2 *m0, mfloat_t f)$/;"	f	typeref:struct:mat2 *
+psmat2_negative	mathc/mathc.c	/^struct mat2 *psmat2_negative(struct mat2 *result, struct mat2 *m0)$/;"	f	typeref:struct:mat2 *
+psmat2_rotation_z	mathc/mathc.c	/^struct mat2 *psmat2_rotation_z(struct mat2 *result, mfloat_t f)$/;"	f	typeref:struct:mat2 *
+psmat2_scale	mathc/mathc.c	/^struct mat2 *psmat2_scale(struct mat2 *result, struct mat2 *m0, struct vec2 *v0)$/;"	f	typeref:struct:mat2 *
+psmat2_scaling	mathc/mathc.c	/^struct mat2 *psmat2_scaling(struct mat2 *result, struct vec2 *v0)$/;"	f	typeref:struct:mat2 *
+psmat2_transpose	mathc/mathc.c	/^struct mat2 *psmat2_transpose(struct mat2 *result, struct mat2 *m0)$/;"	f	typeref:struct:mat2 *
+psmat2_zero	mathc/mathc.c	/^struct mat2 *psmat2_zero(struct mat2 *result)$/;"	f	typeref:struct:mat2 *
+psmat3	mathc/mathc.c	/^struct mat3 *psmat3(struct mat3 *result, mfloat_t m11, mfloat_t m12, mfloat_t m13, mfloat_t m21,/;"	f	typeref:struct:mat3 *
+psmat3_assign	mathc/mathc.c	/^struct mat3 *psmat3_assign(struct mat3 *result, struct mat3 *m0)$/;"	f	typeref:struct:mat3 *
+psmat3_cofactor	mathc/mathc.c	/^struct mat3 *psmat3_cofactor(struct mat3 *result, struct mat3 *m0)$/;"	f	typeref:struct:mat3 *
+psmat3_determinant	mathc/mathc.c	/^mfloat_t psmat3_determinant(struct mat3 *m0)$/;"	f	typeref:typename:mfloat_t
+psmat3_identity	mathc/mathc.c	/^struct mat3 *psmat3_identity(struct mat3 *result)$/;"	f	typeref:struct:mat3 *
+psmat3_inverse	mathc/mathc.c	/^struct mat3 *psmat3_inverse(struct mat3 *result, struct mat3 *m0)$/;"	f	typeref:struct:mat3 *
+psmat3_lerp	mathc/mathc.c	/^struct mat3 *psmat3_lerp(struct mat3 *result, struct mat3 *m0, struct mat3 *m1, mfloat_t f)$/;"	f	typeref:struct:mat3 *
+psmat3_multiply	mathc/mathc.c	/^struct mat3 *psmat3_multiply(struct mat3 *result, struct mat3 *m0, struct mat3 *m1)$/;"	f	typeref:struct:mat3 *
+psmat3_multiply_f	mathc/mathc.c	/^struct mat3 *psmat3_multiply_f(struct mat3 *result, struct mat3 *m0, mfloat_t f)$/;"	f	typeref:struct:mat3 *
+psmat3_negative	mathc/mathc.c	/^struct mat3 *psmat3_negative(struct mat3 *result, struct mat3 *m0)$/;"	f	typeref:struct:mat3 *
+psmat3_rotation_axis	mathc/mathc.c	/^struct mat3 *psmat3_rotation_axis(struct mat3 *result, struct vec3 *v0, mfloat_t f)$/;"	f	typeref:struct:mat3 *
+psmat3_rotation_quat	mathc/mathc.c	/^struct mat3 *psmat3_rotation_quat(struct mat3 *result, struct quat *q0)$/;"	f	typeref:struct:mat3 *
+psmat3_rotation_x	mathc/mathc.c	/^struct mat3 *psmat3_rotation_x(struct mat3 *result, mfloat_t f)$/;"	f	typeref:struct:mat3 *
+psmat3_rotation_y	mathc/mathc.c	/^struct mat3 *psmat3_rotation_y(struct mat3 *result, mfloat_t f)$/;"	f	typeref:struct:mat3 *
+psmat3_rotation_z	mathc/mathc.c	/^struct mat3 *psmat3_rotation_z(struct mat3 *result, mfloat_t f)$/;"	f	typeref:struct:mat3 *
+psmat3_scale	mathc/mathc.c	/^struct mat3 *psmat3_scale(struct mat3 *result, struct mat3 *m0, struct vec3 *v0)$/;"	f	typeref:struct:mat3 *
+psmat3_scaling	mathc/mathc.c	/^struct mat3 *psmat3_scaling(struct mat3 *result, struct vec3 *v0)$/;"	f	typeref:struct:mat3 *
+psmat3_transpose	mathc/mathc.c	/^struct mat3 *psmat3_transpose(struct mat3 *result, struct mat3 *m0)$/;"	f	typeref:struct:mat3 *
+psmat3_zero	mathc/mathc.c	/^struct mat3 *psmat3_zero(struct mat3 *result)$/;"	f	typeref:struct:mat3 *
+psmat4	mathc/mathc.c	/^struct mat4 *psmat4(struct mat4 *result, mfloat_t m11, mfloat_t m12, mfloat_t m13, mfloat_t m14,/;"	f	typeref:struct:mat4 *
+psmat4_assign	mathc/mathc.c	/^struct mat4 *psmat4_assign(struct mat4 *result, struct mat4 *m0)$/;"	f	typeref:struct:mat4 *
+psmat4_cofactor	mathc/mathc.c	/^struct mat4 *psmat4_cofactor(struct mat4 *result, struct mat4 *m0)$/;"	f	typeref:struct:mat4 *
+psmat4_determinant	mathc/mathc.c	/^mfloat_t psmat4_determinant(struct mat4 *m0)$/;"	f	typeref:typename:mfloat_t
+psmat4_identity	mathc/mathc.c	/^struct mat4 *psmat4_identity(struct mat4 *result)$/;"	f	typeref:struct:mat4 *
+psmat4_inverse	mathc/mathc.c	/^struct mat4 *psmat4_inverse(struct mat4 *result, struct mat4 *m0)$/;"	f	typeref:struct:mat4 *
+psmat4_lerp	mathc/mathc.c	/^struct mat4 *psmat4_lerp(struct mat4 *result, struct mat4 *m0, struct mat4 *m1, mfloat_t f)$/;"	f	typeref:struct:mat4 *
+psmat4_look_at	mathc/mathc.c	/^struct mat4 *psmat4_look_at(struct mat4 *result, struct vec3 *position, struct vec3 *target, str/;"	f	typeref:struct:mat4 *
+psmat4_multiply	mathc/mathc.c	/^struct mat4 *psmat4_multiply(struct mat4 *result, struct mat4 *m0, struct mat4 *m1)$/;"	f	typeref:struct:mat4 *
+psmat4_multiply_f	mathc/mathc.c	/^struct mat4 *psmat4_multiply_f(struct mat4 *result, struct mat4 *m0, mfloat_t f)$/;"	f	typeref:struct:mat4 *
+psmat4_negative	mathc/mathc.c	/^struct mat4 *psmat4_negative(struct mat4 *result, struct mat4 *m0)$/;"	f	typeref:struct:mat4 *
+psmat4_ortho	mathc/mathc.c	/^struct mat4 *psmat4_ortho(struct mat4 *result, mfloat_t l, mfloat_t r, mfloat_t b, mfloat_t t, m/;"	f	typeref:struct:mat4 *
+psmat4_perspective	mathc/mathc.c	/^struct mat4 *psmat4_perspective(struct mat4 *result, mfloat_t fov_y, mfloat_t aspect, mfloat_t n/;"	f	typeref:struct:mat4 *
+psmat4_perspective_fov	mathc/mathc.c	/^struct mat4 *psmat4_perspective_fov(struct mat4 *result, mfloat_t fov, mfloat_t w, mfloat_t h, m/;"	f	typeref:struct:mat4 *
+psmat4_perspective_infinite	mathc/mathc.c	/^struct mat4 *psmat4_perspective_infinite(struct mat4 *result, mfloat_t fov_y, mfloat_t aspect, m/;"	f	typeref:struct:mat4 *
+psmat4_rotation_axis	mathc/mathc.c	/^struct mat4 *psmat4_rotation_axis(struct mat4 *result, struct vec3 *v0, mfloat_t f)$/;"	f	typeref:struct:mat4 *
+psmat4_rotation_quat	mathc/mathc.c	/^struct mat4 *psmat4_rotation_quat(struct mat4 *result, struct quat *q0)$/;"	f	typeref:struct:mat4 *
+psmat4_rotation_x	mathc/mathc.c	/^struct mat4 *psmat4_rotation_x(struct mat4 *result, mfloat_t f)$/;"	f	typeref:struct:mat4 *
+psmat4_rotation_y	mathc/mathc.c	/^struct mat4 *psmat4_rotation_y(struct mat4 *result, mfloat_t f)$/;"	f	typeref:struct:mat4 *
+psmat4_rotation_z	mathc/mathc.c	/^struct mat4 *psmat4_rotation_z(struct mat4 *result, mfloat_t f)$/;"	f	typeref:struct:mat4 *
+psmat4_scale	mathc/mathc.c	/^struct mat4 *psmat4_scale(struct mat4 *result, struct mat4 *m0, struct vec3 *v0)$/;"	f	typeref:struct:mat4 *
+psmat4_scaling	mathc/mathc.c	/^struct mat4 *psmat4_scaling(struct mat4 *result, struct mat4 *m0, struct vec3 *v0)$/;"	f	typeref:struct:mat4 *
+psmat4_translate	mathc/mathc.c	/^struct mat4 *psmat4_translate(struct mat4 *result, struct mat4 *m0, struct vec3 *v0)$/;"	f	typeref:struct:mat4 *
+psmat4_translation	mathc/mathc.c	/^struct mat4 *psmat4_translation(struct mat4 *result, struct mat4 *m0, struct vec3 *v0)$/;"	f	typeref:struct:mat4 *
+psmat4_transpose	mathc/mathc.c	/^struct mat4 *psmat4_transpose(struct mat4 *result, struct mat4 *m0)$/;"	f	typeref:struct:mat4 *
+psmat4_zero	mathc/mathc.c	/^struct mat4 *psmat4_zero(struct mat4 *result)$/;"	f	typeref:struct:mat4 *
+psquat	mathc/mathc.c	/^struct quat *psquat(struct quat *result, mfloat_t x, mfloat_t y, mfloat_t z, mfloat_t w)$/;"	f	typeref:struct:quat *
+psquat_angle	mathc/mathc.c	/^mfloat_t psquat_angle(struct quat *q0, struct quat *q1)$/;"	f	typeref:typename:mfloat_t
+psquat_assign	mathc/mathc.c	/^struct quat *psquat_assign(struct quat *result, struct quat *q0)$/;"	f	typeref:struct:quat *
+psquat_conjugate	mathc/mathc.c	/^struct quat *psquat_conjugate(struct quat *result, struct quat *q0)$/;"	f	typeref:struct:quat *
+psquat_divide	mathc/mathc.c	/^struct quat *psquat_divide(struct quat *result, struct quat *q0, struct quat *q1)$/;"	f	typeref:struct:quat *
+psquat_divide_f	mathc/mathc.c	/^struct quat *psquat_divide_f(struct quat *result, struct quat *q0, mfloat_t f)$/;"	f	typeref:struct:quat *
+psquat_dot	mathc/mathc.c	/^mfloat_t psquat_dot(struct quat *q0, struct quat *q1)$/;"	f	typeref:typename:mfloat_t
+psquat_from_axis_angle	mathc/mathc.c	/^struct quat *psquat_from_axis_angle(struct quat *result, struct vec3 *v0, mfloat_t angle)$/;"	f	typeref:struct:quat *
+psquat_from_mat4	mathc/mathc.c	/^struct quat *psquat_from_mat4(struct quat *result, struct mat4 *m0)$/;"	f	typeref:struct:quat *
+psquat_from_vec3	mathc/mathc.c	/^struct quat *psquat_from_vec3(struct quat *result, struct vec3 *v0, struct vec3 *v1)$/;"	f	typeref:struct:quat *
+psquat_inverse	mathc/mathc.c	/^struct quat *psquat_inverse(struct quat *result, struct quat *q0)$/;"	f	typeref:struct:quat *
+psquat_is_equal	mathc/mathc.c	/^bool psquat_is_equal(struct quat *q0, struct quat *q1)$/;"	f	typeref:typename:bool
+psquat_is_zero	mathc/mathc.c	/^bool psquat_is_zero(struct quat *q0)$/;"	f	typeref:typename:bool
+psquat_length	mathc/mathc.c	/^mfloat_t psquat_length(struct quat *q0)$/;"	f	typeref:typename:mfloat_t
+psquat_length_squared	mathc/mathc.c	/^mfloat_t psquat_length_squared(struct quat *q0)$/;"	f	typeref:typename:mfloat_t
+psquat_lerp	mathc/mathc.c	/^struct quat *psquat_lerp(struct quat *result, struct quat *q0, struct quat *q1, mfloat_t f)$/;"	f	typeref:struct:quat *
+psquat_multiply	mathc/mathc.c	/^struct quat *psquat_multiply(struct quat *result, struct quat *q0, struct quat *q1)$/;"	f	typeref:struct:quat *
+psquat_multiply_f	mathc/mathc.c	/^struct quat *psquat_multiply_f(struct quat *result, struct quat *q0, mfloat_t f)$/;"	f	typeref:struct:quat *
+psquat_negative	mathc/mathc.c	/^struct quat *psquat_negative(struct quat *result, struct quat *q0)$/;"	f	typeref:struct:quat *
+psquat_normalize	mathc/mathc.c	/^struct quat *psquat_normalize(struct quat *result, struct quat *q0)$/;"	f	typeref:struct:quat *
+psquat_null	mathc/mathc.c	/^struct quat *psquat_null(struct quat *result)$/;"	f	typeref:struct:quat *
+psquat_power	mathc/mathc.c	/^struct quat *psquat_power(struct quat *result, struct quat *q0, mfloat_t exponent)$/;"	f	typeref:struct:quat *
+psquat_slerp	mathc/mathc.c	/^struct quat *psquat_slerp(struct quat *result, struct quat *q0, struct quat *q1, mfloat_t f)$/;"	f	typeref:struct:quat *
+psquat_zero	mathc/mathc.c	/^struct quat *psquat_zero(struct quat *result)$/;"	f	typeref:struct:quat *
+psvec2	mathc/mathc.c	/^struct vec2 *psvec2(struct vec2 *result, mfloat_t x, mfloat_t y)$/;"	f	typeref:struct:vec2 *
+psvec2_abs	mathc/mathc.c	/^struct vec2 *psvec2_abs(struct vec2 *result, struct vec2 *v0)$/;"	f	typeref:struct:vec2 *
+psvec2_add	mathc/mathc.c	/^struct vec2 *psvec2_add(struct vec2 *result, struct vec2 *v0, struct vec2 *v1)$/;"	f	typeref:struct:vec2 *
+psvec2_add_f	mathc/mathc.c	/^struct vec2 *psvec2_add_f(struct vec2 *result, struct vec2 *v0, mfloat_t f)$/;"	f	typeref:struct:vec2 *
+psvec2_angle	mathc/mathc.c	/^mfloat_t psvec2_angle(struct vec2 *v0)$/;"	f	typeref:typename:mfloat_t
+psvec2_assign	mathc/mathc.c	/^struct vec2 *psvec2_assign(struct vec2 *result, struct vec2 *v0)$/;"	f	typeref:struct:vec2 *
+psvec2_assign_vec2i	mathc/mathc.c	/^struct vec2 *psvec2_assign_vec2i(struct vec2 *result, struct vec2i *v0)$/;"	f	typeref:struct:vec2 *
+psvec2_bezier3	mathc/mathc.c	/^struct vec2 *psvec2_bezier3(struct vec2 *result, struct vec2 *v0, struct vec2 *v1, struct vec2 */;"	f	typeref:struct:vec2 *
+psvec2_bezier4	mathc/mathc.c	/^struct vec2 *psvec2_bezier4(struct vec2 *result, struct vec2 *v0, struct vec2 *v1, struct vec2 */;"	f	typeref:struct:vec2 *
+psvec2_ceil	mathc/mathc.c	/^struct vec2 *psvec2_ceil(struct vec2 *result, struct vec2 *v0)$/;"	f	typeref:struct:vec2 *
+psvec2_clamp	mathc/mathc.c	/^struct vec2 *psvec2_clamp(struct vec2 *result, struct vec2 *v0, struct vec2 *v1, struct vec2 *v2/;"	f	typeref:struct:vec2 *
+psvec2_distance	mathc/mathc.c	/^mfloat_t psvec2_distance(struct vec2 *v0, struct vec2 *v1)$/;"	f	typeref:typename:mfloat_t
+psvec2_distance_squared	mathc/mathc.c	/^mfloat_t psvec2_distance_squared(struct vec2 *v0, struct vec2 *v1)$/;"	f	typeref:typename:mfloat_t
+psvec2_divide	mathc/mathc.c	/^struct vec2 *psvec2_divide(struct vec2 *result, struct vec2 *v0, struct vec2 *v1)$/;"	f	typeref:struct:vec2 *
+psvec2_divide_f	mathc/mathc.c	/^struct vec2 *psvec2_divide_f(struct vec2 *result, struct vec2 *v0, mfloat_t f)$/;"	f	typeref:struct:vec2 *
+psvec2_dot	mathc/mathc.c	/^mfloat_t psvec2_dot(struct vec2 *v0, struct vec2 *v1)$/;"	f	typeref:typename:mfloat_t
+psvec2_floor	mathc/mathc.c	/^struct vec2 *psvec2_floor(struct vec2 *result, struct vec2 *v0)$/;"	f	typeref:struct:vec2 *
+psvec2_is_equal	mathc/mathc.c	/^bool psvec2_is_equal(struct vec2 *v0, struct vec2 *v1)$/;"	f	typeref:typename:bool
+psvec2_is_zero	mathc/mathc.c	/^bool psvec2_is_zero(struct vec2 *v0)$/;"	f	typeref:typename:bool
+psvec2_length	mathc/mathc.c	/^mfloat_t psvec2_length(struct vec2 *v0)$/;"	f	typeref:typename:mfloat_t
+psvec2_length_squared	mathc/mathc.c	/^mfloat_t psvec2_length_squared(struct vec2 *v0)$/;"	f	typeref:typename:mfloat_t
+psvec2_lerp	mathc/mathc.c	/^struct vec2 *psvec2_lerp(struct vec2 *result, struct vec2 *v0, struct vec2 *v1, mfloat_t f)$/;"	f	typeref:struct:vec2 *
+psvec2_max	mathc/mathc.c	/^struct vec2 *psvec2_max(struct vec2 *result, struct vec2 *v0, struct vec2 *v1)$/;"	f	typeref:struct:vec2 *
+psvec2_min	mathc/mathc.c	/^struct vec2 *psvec2_min(struct vec2 *result, struct vec2 *v0, struct vec2 *v1)$/;"	f	typeref:struct:vec2 *
+psvec2_multiply	mathc/mathc.c	/^struct vec2 *psvec2_multiply(struct vec2 *result, struct vec2 *v0, struct vec2 *v1)$/;"	f	typeref:struct:vec2 *
+psvec2_multiply_f	mathc/mathc.c	/^struct vec2 *psvec2_multiply_f(struct vec2 *result, struct vec2 *v0, mfloat_t f)$/;"	f	typeref:struct:vec2 *
+psvec2_multiply_mat2	mathc/mathc.c	/^struct vec2 *psvec2_multiply_mat2(struct vec2 *result, struct vec2 *v0, struct mat2 *m0)$/;"	f	typeref:struct:vec2 *
+psvec2_negative	mathc/mathc.c	/^struct vec2 *psvec2_negative(struct vec2 *result, struct vec2 *v0)$/;"	f	typeref:struct:vec2 *
+psvec2_normalize	mathc/mathc.c	/^struct vec2 *psvec2_normalize(struct vec2 *result, struct vec2 *v0)$/;"	f	typeref:struct:vec2 *
+psvec2_one	mathc/mathc.c	/^struct vec2 *psvec2_one(struct vec2 *result)$/;"	f	typeref:struct:vec2 *
+psvec2_project	mathc/mathc.c	/^struct vec2 *psvec2_project(struct vec2 *result, struct vec2 *v0, struct vec2 *v1)$/;"	f	typeref:struct:vec2 *
+psvec2_reflect	mathc/mathc.c	/^struct vec2 *psvec2_reflect(struct vec2 *result, struct vec2 *v0, struct vec2 *normal)$/;"	f	typeref:struct:vec2 *
+psvec2_rotate	mathc/mathc.c	/^struct vec2 *psvec2_rotate(struct vec2 *result, struct vec2 *v0, mfloat_t f)$/;"	f	typeref:struct:vec2 *
+psvec2_round	mathc/mathc.c	/^struct vec2 *psvec2_round(struct vec2 *result, struct vec2 *v0)$/;"	f	typeref:struct:vec2 *
+psvec2_sign	mathc/mathc.c	/^struct vec2 *psvec2_sign(struct vec2 *result, struct vec2 *v0)$/;"	f	typeref:struct:vec2 *
+psvec2_slide	mathc/mathc.c	/^struct vec2 *psvec2_slide(struct vec2 *result, struct vec2 *v0, struct vec2 *normal)$/;"	f	typeref:struct:vec2 *
+psvec2_snap	mathc/mathc.c	/^struct vec2 *psvec2_snap(struct vec2 *result, struct vec2 *v0, struct vec2 *v1)$/;"	f	typeref:struct:vec2 *
+psvec2_snap_f	mathc/mathc.c	/^struct vec2 *psvec2_snap_f(struct vec2 *result, struct vec2 *v0, mfloat_t f)$/;"	f	typeref:struct:vec2 *
+psvec2_subtract	mathc/mathc.c	/^struct vec2 *psvec2_subtract(struct vec2 *result, struct vec2 *v0, struct vec2 *v1)$/;"	f	typeref:struct:vec2 *
+psvec2_subtract_f	mathc/mathc.c	/^struct vec2 *psvec2_subtract_f(struct vec2 *result, struct vec2 *v0, mfloat_t f)$/;"	f	typeref:struct:vec2 *
+psvec2_tangent	mathc/mathc.c	/^struct vec2 *psvec2_tangent(struct vec2 *result, struct vec2 *v0)$/;"	f	typeref:struct:vec2 *
+psvec2_zero	mathc/mathc.c	/^struct vec2 *psvec2_zero(struct vec2 *result)$/;"	f	typeref:struct:vec2 *
+psvec2i	mathc/mathc.c	/^struct vec2i *psvec2i(struct vec2i *result, mint_t x, mint_t y)$/;"	f	typeref:struct:vec2i *
+psvec2i_abs	mathc/mathc.c	/^struct vec2i *psvec2i_abs(struct vec2i *result, struct vec2i *v0)$/;"	f	typeref:struct:vec2i *
+psvec2i_add	mathc/mathc.c	/^struct vec2i *psvec2i_add(struct vec2i *result, struct vec2i *v0, struct vec2i *v1)$/;"	f	typeref:struct:vec2i *
+psvec2i_add_i	mathc/mathc.c	/^struct vec2i *psvec2i_add_i(struct vec2i *result, struct vec2i *v0, mint_t i)$/;"	f	typeref:struct:vec2i *
+psvec2i_assign	mathc/mathc.c	/^struct vec2i *psvec2i_assign(struct vec2i *result, struct vec2i *v0)$/;"	f	typeref:struct:vec2i *
+psvec2i_assign_vec2	mathc/mathc.c	/^struct vec2i *psvec2i_assign_vec2(struct vec2i *result, struct vec2 *v0)$/;"	f	typeref:struct:vec2i *
+psvec2i_clamp	mathc/mathc.c	/^struct vec2i *psvec2i_clamp(struct vec2i *result, struct vec2i *v0, struct vec2i *v1, struct vec/;"	f	typeref:struct:vec2i *
+psvec2i_divide	mathc/mathc.c	/^struct vec2i *psvec2i_divide(struct vec2i *result, struct vec2i *v0, struct vec2i *v1)$/;"	f	typeref:struct:vec2i *
+psvec2i_divide_i	mathc/mathc.c	/^struct vec2i *psvec2i_divide_i(struct vec2i *result, struct vec2i *v0, mint_t i)$/;"	f	typeref:struct:vec2i *
+psvec2i_is_equal	mathc/mathc.c	/^bool psvec2i_is_equal(struct vec2i *v0, struct vec2i *v1)$/;"	f	typeref:typename:bool
+psvec2i_is_zero	mathc/mathc.c	/^bool psvec2i_is_zero(struct vec2i *v0)$/;"	f	typeref:typename:bool
+psvec2i_max	mathc/mathc.c	/^struct vec2i *psvec2i_max(struct vec2i *result, struct vec2i *v0, struct vec2i *v1)$/;"	f	typeref:struct:vec2i *
+psvec2i_min	mathc/mathc.c	/^struct vec2i *psvec2i_min(struct vec2i *result, struct vec2i *v0, struct vec2i *v1)$/;"	f	typeref:struct:vec2i *
+psvec2i_multiply	mathc/mathc.c	/^struct vec2i *psvec2i_multiply(struct vec2i *result, struct vec2i *v0, struct vec2i *v1)$/;"	f	typeref:struct:vec2i *
+psvec2i_multiply_i	mathc/mathc.c	/^struct vec2i *psvec2i_multiply_i(struct vec2i *result, struct vec2i *v0, mint_t i)$/;"	f	typeref:struct:vec2i *
+psvec2i_negative	mathc/mathc.c	/^struct vec2i *psvec2i_negative(struct vec2i *result, struct vec2i *v0)$/;"	f	typeref:struct:vec2i *
+psvec2i_one	mathc/mathc.c	/^struct vec2i *psvec2i_one(struct vec2i *result)$/;"	f	typeref:struct:vec2i *
+psvec2i_sign	mathc/mathc.c	/^struct vec2i *psvec2i_sign(struct vec2i *result, struct vec2i *v0)$/;"	f	typeref:struct:vec2i *
+psvec2i_snap	mathc/mathc.c	/^struct vec2i *psvec2i_snap(struct vec2i *result, struct vec2i *v0, struct vec2i *v1)$/;"	f	typeref:struct:vec2i *
+psvec2i_snap_i	mathc/mathc.c	/^struct vec2i *psvec2i_snap_i(struct vec2i *result, struct vec2i *v0, mint_t i)$/;"	f	typeref:struct:vec2i *
+psvec2i_subtract	mathc/mathc.c	/^struct vec2i *psvec2i_subtract(struct vec2i *result, struct vec2i *v0, struct vec2i *v1)$/;"	f	typeref:struct:vec2i *
+psvec2i_subtract_i	mathc/mathc.c	/^struct vec2i *psvec2i_subtract_i(struct vec2i *result, struct vec2i *v0, mint_t i)$/;"	f	typeref:struct:vec2i *
+psvec2i_tangent	mathc/mathc.c	/^struct vec2i *psvec2i_tangent(struct vec2i *result, struct vec2i *v0)$/;"	f	typeref:struct:vec2i *
+psvec2i_zero	mathc/mathc.c	/^struct vec2i *psvec2i_zero(struct vec2i *result)$/;"	f	typeref:struct:vec2i *
+psvec3	mathc/mathc.c	/^struct vec3 *psvec3(struct vec3 *result, mfloat_t x, mfloat_t y, mfloat_t z)$/;"	f	typeref:struct:vec3 *
+psvec3_abs	mathc/mathc.c	/^struct vec3 *psvec3_abs(struct vec3 *result, struct vec3 *v0)$/;"	f	typeref:struct:vec3 *
+psvec3_add	mathc/mathc.c	/^struct vec3 *psvec3_add(struct vec3 *result, struct vec3 *v0, struct vec3 *v1)$/;"	f	typeref:struct:vec3 *
+psvec3_add_f	mathc/mathc.c	/^struct vec3 *psvec3_add_f(struct vec3 *result, struct vec3 *v0, mfloat_t f)$/;"	f	typeref:struct:vec3 *
+psvec3_assign	mathc/mathc.c	/^struct vec3 *psvec3_assign(struct vec3 *result, struct vec3 *v0)$/;"	f	typeref:struct:vec3 *
+psvec3_assign_vec3i	mathc/mathc.c	/^struct vec3 *psvec3_assign_vec3i(struct vec3 *result, struct vec3i *v0)$/;"	f	typeref:struct:vec3 *
+psvec3_bezier3	mathc/mathc.c	/^struct vec3 *psvec3_bezier3(struct vec3 *result, struct vec3 *v0, struct vec3 *v1, struct vec3 */;"	f	typeref:struct:vec3 *
+psvec3_bezier4	mathc/mathc.c	/^struct vec3 *psvec3_bezier4(struct vec3 *result, struct vec3 *v0, struct vec3 *v1, struct vec3 */;"	f	typeref:struct:vec3 *
+psvec3_ceil	mathc/mathc.c	/^struct vec3 *psvec3_ceil(struct vec3 *result, struct vec3 *v0)$/;"	f	typeref:struct:vec3 *
+psvec3_clamp	mathc/mathc.c	/^struct vec3 *psvec3_clamp(struct vec3 *result, struct vec3 *v0, struct vec3 *v1, struct vec3 *v2/;"	f	typeref:struct:vec3 *
+psvec3_cross	mathc/mathc.c	/^struct vec3 *psvec3_cross(struct vec3 *result, struct vec3 *v0, struct vec3 *v1)$/;"	f	typeref:struct:vec3 *
+psvec3_distance	mathc/mathc.c	/^mfloat_t psvec3_distance(struct vec3 *v0, struct vec3 *v1)$/;"	f	typeref:typename:mfloat_t
+psvec3_distance_squared	mathc/mathc.c	/^mfloat_t psvec3_distance_squared(struct vec3 *v0, struct vec3 *v1)$/;"	f	typeref:typename:mfloat_t
+psvec3_divide	mathc/mathc.c	/^struct vec3 *psvec3_divide(struct vec3 *result, struct vec3 *v0, struct vec3 *v1)$/;"	f	typeref:struct:vec3 *
+psvec3_divide_f	mathc/mathc.c	/^struct vec3 *psvec3_divide_f(struct vec3 *result, struct vec3 *v0, mfloat_t f)$/;"	f	typeref:struct:vec3 *
+psvec3_dot	mathc/mathc.c	/^mfloat_t psvec3_dot(struct vec3 *v0, struct vec3 *v1)$/;"	f	typeref:typename:mfloat_t
+psvec3_floor	mathc/mathc.c	/^struct vec3 *psvec3_floor(struct vec3 *result, struct vec3 *v0)$/;"	f	typeref:struct:vec3 *
+psvec3_is_equal	mathc/mathc.c	/^bool psvec3_is_equal(struct vec3 *v0, struct vec3 *v1)$/;"	f	typeref:typename:bool
+psvec3_is_zero	mathc/mathc.c	/^bool psvec3_is_zero(struct vec3 *v0)$/;"	f	typeref:typename:bool
+psvec3_length	mathc/mathc.c	/^mfloat_t psvec3_length(struct vec3 *v0)$/;"	f	typeref:typename:mfloat_t
+psvec3_length_squared	mathc/mathc.c	/^mfloat_t psvec3_length_squared(struct vec3 *v0)$/;"	f	typeref:typename:mfloat_t
+psvec3_lerp	mathc/mathc.c	/^struct vec3 *psvec3_lerp(struct vec3 *result, struct vec3 *v0, struct vec3 *v1, mfloat_t f)$/;"	f	typeref:struct:vec3 *
+psvec3_max	mathc/mathc.c	/^struct vec3 *psvec3_max(struct vec3 *result, struct vec3 *v0, struct vec3 *v1)$/;"	f	typeref:struct:vec3 *
+psvec3_min	mathc/mathc.c	/^struct vec3 *psvec3_min(struct vec3 *result, struct vec3 *v0, struct vec3 *v1)$/;"	f	typeref:struct:vec3 *
+psvec3_multiply	mathc/mathc.c	/^struct vec3 *psvec3_multiply(struct vec3 *result, struct vec3 *v0, struct vec3 *v1)$/;"	f	typeref:struct:vec3 *
+psvec3_multiply_f	mathc/mathc.c	/^struct vec3 *psvec3_multiply_f(struct vec3 *result, struct vec3 *v0, mfloat_t f)$/;"	f	typeref:struct:vec3 *
+psvec3_multiply_mat3	mathc/mathc.c	/^struct vec3 *psvec3_multiply_mat3(struct vec3 *result, struct vec3 *v0, struct mat3 *m0)$/;"	f	typeref:struct:vec3 *
+psvec3_negative	mathc/mathc.c	/^struct vec3 *psvec3_negative(struct vec3 *result, struct vec3 *v0)$/;"	f	typeref:struct:vec3 *
+psvec3_normalize	mathc/mathc.c	/^struct vec3 *psvec3_normalize(struct vec3 *result, struct vec3 *v0)$/;"	f	typeref:struct:vec3 *
+psvec3_one	mathc/mathc.c	/^struct vec3 *psvec3_one(struct vec3 *result)$/;"	f	typeref:struct:vec3 *
+psvec3_project	mathc/mathc.c	/^struct vec3 *psvec3_project(struct vec3 *result, struct vec3 *v0, struct vec3 *v1)$/;"	f	typeref:struct:vec3 *
+psvec3_reflect	mathc/mathc.c	/^struct vec3 *psvec3_reflect(struct vec3 *result, struct vec3 *v0, struct vec3 *normal)$/;"	f	typeref:struct:vec3 *
+psvec3_rotate	mathc/mathc.c	/^struct vec3 *psvec3_rotate(struct vec3 *result, struct vec3 *v0, struct vec3 *ra, mfloat_t f)$/;"	f	typeref:struct:vec3 *
+psvec3_round	mathc/mathc.c	/^struct vec3 *psvec3_round(struct vec3 *result, struct vec3 *v0)$/;"	f	typeref:struct:vec3 *
+psvec3_sign	mathc/mathc.c	/^struct vec3 *psvec3_sign(struct vec3 *result, struct vec3 *v0)$/;"	f	typeref:struct:vec3 *
+psvec3_slide	mathc/mathc.c	/^struct vec3 *psvec3_slide(struct vec3 *result, struct vec3 *v0, struct vec3 *normal)$/;"	f	typeref:struct:vec3 *
+psvec3_snap	mathc/mathc.c	/^struct vec3 *psvec3_snap(struct vec3 *result, struct vec3 *v0, struct vec3 *v1)$/;"	f	typeref:struct:vec3 *
+psvec3_snap_f	mathc/mathc.c	/^struct vec3 *psvec3_snap_f(struct vec3 *result, struct vec3 *v0, mfloat_t f)$/;"	f	typeref:struct:vec3 *
+psvec3_subtract	mathc/mathc.c	/^struct vec3 *psvec3_subtract(struct vec3 *result, struct vec3 *v0, struct vec3 *v1)$/;"	f	typeref:struct:vec3 *
+psvec3_subtract_f	mathc/mathc.c	/^struct vec3 *psvec3_subtract_f(struct vec3 *result, struct vec3 *v0, mfloat_t f)$/;"	f	typeref:struct:vec3 *
+psvec3_zero	mathc/mathc.c	/^struct vec3 *psvec3_zero(struct vec3 *result)$/;"	f	typeref:struct:vec3 *
+psvec3i	mathc/mathc.c	/^struct vec3i *psvec3i(struct vec3i *result, mint_t x, mint_t y, mint_t z)$/;"	f	typeref:struct:vec3i *
+psvec3i_abs	mathc/mathc.c	/^struct vec3i *psvec3i_abs(struct vec3i *result, struct vec3i *v0)$/;"	f	typeref:struct:vec3i *
+psvec3i_add	mathc/mathc.c	/^struct vec3i *psvec3i_add(struct vec3i *result, struct vec3i *v0, struct vec3i *v1)$/;"	f	typeref:struct:vec3i *
+psvec3i_add_i	mathc/mathc.c	/^struct vec3i *psvec3i_add_i(struct vec3i *result, struct vec3i *v0, mint_t i)$/;"	f	typeref:struct:vec3i *
+psvec3i_assign	mathc/mathc.c	/^struct vec3i *psvec3i_assign(struct vec3i *result, struct vec3i *v0)$/;"	f	typeref:struct:vec3i *
+psvec3i_assign_vec3	mathc/mathc.c	/^struct vec3i *psvec3i_assign_vec3(struct vec3i *result, struct vec3 *v0)$/;"	f	typeref:struct:vec3i *
+psvec3i_clamp	mathc/mathc.c	/^struct vec3i *psvec3i_clamp(struct vec3i *result, struct vec3i *v0, struct vec3i *v1, struct vec/;"	f	typeref:struct:vec3i *
+psvec3i_cross	mathc/mathc.c	/^struct vec3i *psvec3i_cross(struct vec3i *result, struct vec3i *v0, struct vec3i *v1)$/;"	f	typeref:struct:vec3i *
+psvec3i_divide	mathc/mathc.c	/^struct vec3i *psvec3i_divide(struct vec3i *result, struct vec3i *v0, struct vec3i *v1)$/;"	f	typeref:struct:vec3i *
+psvec3i_divide_i	mathc/mathc.c	/^struct vec3i *psvec3i_divide_i(struct vec3i *result, struct vec3i *v0, mint_t i)$/;"	f	typeref:struct:vec3i *
+psvec3i_is_equal	mathc/mathc.c	/^bool psvec3i_is_equal(struct vec3i *v0, struct vec3i *v1)$/;"	f	typeref:typename:bool
+psvec3i_is_zero	mathc/mathc.c	/^bool psvec3i_is_zero(struct vec3i *v0)$/;"	f	typeref:typename:bool
+psvec3i_max	mathc/mathc.c	/^struct vec3i *psvec3i_max(struct vec3i *result, struct vec3i *v0, struct vec3i *v1)$/;"	f	typeref:struct:vec3i *
+psvec3i_min	mathc/mathc.c	/^struct vec3i *psvec3i_min(struct vec3i *result, struct vec3i *v0, struct vec3i *v1)$/;"	f	typeref:struct:vec3i *
+psvec3i_multiply	mathc/mathc.c	/^struct vec3i *psvec3i_multiply(struct vec3i *result, struct vec3i *v0, struct vec3i *v1)$/;"	f	typeref:struct:vec3i *
+psvec3i_multiply_i	mathc/mathc.c	/^struct vec3i *psvec3i_multiply_i(struct vec3i *result, struct vec3i *v0, mint_t i)$/;"	f	typeref:struct:vec3i *
+psvec3i_negative	mathc/mathc.c	/^struct vec3i *psvec3i_negative(struct vec3i *result, struct vec3i *v0)$/;"	f	typeref:struct:vec3i *
+psvec3i_one	mathc/mathc.c	/^struct vec3i *psvec3i_one(struct vec3i *result)$/;"	f	typeref:struct:vec3i *
+psvec3i_sign	mathc/mathc.c	/^struct vec3i *psvec3i_sign(struct vec3i *result, struct vec3i *v0)$/;"	f	typeref:struct:vec3i *
+psvec3i_snap	mathc/mathc.c	/^struct vec3i *psvec3i_snap(struct vec3i *result, struct vec3i *v0, struct vec3i *v1)$/;"	f	typeref:struct:vec3i *
+psvec3i_snap_i	mathc/mathc.c	/^struct vec3i *psvec3i_snap_i(struct vec3i *result, struct vec3i *v0, mint_t i)$/;"	f	typeref:struct:vec3i *
+psvec3i_subtract	mathc/mathc.c	/^struct vec3i *psvec3i_subtract(struct vec3i *result, struct vec3i *v0, struct vec3i *v1)$/;"	f	typeref:struct:vec3i *
+psvec3i_subtract_i	mathc/mathc.c	/^struct vec3i *psvec3i_subtract_i(struct vec3i *result, struct vec3i *v0, mint_t i)$/;"	f	typeref:struct:vec3i *
+psvec3i_zero	mathc/mathc.c	/^struct vec3i *psvec3i_zero(struct vec3i *result)$/;"	f	typeref:struct:vec3i *
+psvec4	mathc/mathc.c	/^struct vec4 *psvec4(struct vec4 *result, mfloat_t x, mfloat_t y, mfloat_t z, mfloat_t w)$/;"	f	typeref:struct:vec4 *
+psvec4_abs	mathc/mathc.c	/^struct vec4 *psvec4_abs(struct vec4 *result, struct vec4 *v0)$/;"	f	typeref:struct:vec4 *
+psvec4_add	mathc/mathc.c	/^struct vec4 *psvec4_add(struct vec4 *result, struct vec4 *v0, struct vec4 *v1)$/;"	f	typeref:struct:vec4 *
+psvec4_add_f	mathc/mathc.c	/^struct vec4 *psvec4_add_f(struct vec4 *result, struct vec4 *v0, mfloat_t f)$/;"	f	typeref:struct:vec4 *
+psvec4_assign	mathc/mathc.c	/^struct vec4 *psvec4_assign(struct vec4 *result, struct vec4 *v0)$/;"	f	typeref:struct:vec4 *
+psvec4_assign_vec4i	mathc/mathc.c	/^struct vec4 *psvec4_assign_vec4i(struct vec4 *result, struct vec4i *v0)$/;"	f	typeref:struct:vec4 *
+psvec4_ceil	mathc/mathc.c	/^struct vec4 *psvec4_ceil(struct vec4 *result, struct vec4 *v0)$/;"	f	typeref:struct:vec4 *
+psvec4_clamp	mathc/mathc.c	/^struct vec4 *psvec4_clamp(struct vec4 *result, struct vec4 *v0, struct vec4 *v1, struct vec4 *v2/;"	f	typeref:struct:vec4 *
+psvec4_divide	mathc/mathc.c	/^struct vec4 *psvec4_divide(struct vec4 *result, struct vec4 *v0, struct vec4 *v1)$/;"	f	typeref:struct:vec4 *
+psvec4_divide_f	mathc/mathc.c	/^struct vec4 *psvec4_divide_f(struct vec4 *result, struct vec4 *v0, mfloat_t f)$/;"	f	typeref:struct:vec4 *
+psvec4_floor	mathc/mathc.c	/^struct vec4 *psvec4_floor(struct vec4 *result, struct vec4 *v0)$/;"	f	typeref:struct:vec4 *
+psvec4_is_equal	mathc/mathc.c	/^bool psvec4_is_equal(struct vec4 *v0, struct vec4 *v1)$/;"	f	typeref:typename:bool
+psvec4_is_zero	mathc/mathc.c	/^bool psvec4_is_zero(struct vec4 *v0)$/;"	f	typeref:typename:bool
+psvec4_lerp	mathc/mathc.c	/^struct vec4 *psvec4_lerp(struct vec4 *result, struct vec4 *v0, struct vec4 *v1, mfloat_t f)$/;"	f	typeref:struct:vec4 *
+psvec4_max	mathc/mathc.c	/^struct vec4 *psvec4_max(struct vec4 *result, struct vec4 *v0, struct vec4 *v1)$/;"	f	typeref:struct:vec4 *
+psvec4_min	mathc/mathc.c	/^struct vec4 *psvec4_min(struct vec4 *result, struct vec4 *v0, struct vec4 *v1)$/;"	f	typeref:struct:vec4 *
+psvec4_multiply	mathc/mathc.c	/^struct vec4 *psvec4_multiply(struct vec4 *result, struct vec4 *v0, struct vec4 *v1)$/;"	f	typeref:struct:vec4 *
+psvec4_multiply_f	mathc/mathc.c	/^struct vec4 *psvec4_multiply_f(struct vec4 *result, struct vec4 *v0, mfloat_t f)$/;"	f	typeref:struct:vec4 *
+psvec4_multiply_mat4	mathc/mathc.c	/^struct vec4 *psvec4_multiply_mat4(struct vec4 *result, struct vec4 *v0, struct mat4 *m0)$/;"	f	typeref:struct:vec4 *
+psvec4_negative	mathc/mathc.c	/^struct vec4 *psvec4_negative(struct vec4 *result, struct vec4 *v0)$/;"	f	typeref:struct:vec4 *
+psvec4_normalize	mathc/mathc.c	/^struct vec4 *psvec4_normalize(struct vec4 *result, struct vec4 *v0)$/;"	f	typeref:struct:vec4 *
+psvec4_one	mathc/mathc.c	/^struct vec4 *psvec4_one(struct vec4 *result)$/;"	f	typeref:struct:vec4 *
+psvec4_round	mathc/mathc.c	/^struct vec4 *psvec4_round(struct vec4 *result, struct vec4 *v0)$/;"	f	typeref:struct:vec4 *
+psvec4_sign	mathc/mathc.c	/^struct vec4 *psvec4_sign(struct vec4 *result, struct vec4 *v0)$/;"	f	typeref:struct:vec4 *
+psvec4_snap	mathc/mathc.c	/^struct vec4 *psvec4_snap(struct vec4 *result, struct vec4 *v0, struct vec4 *v1)$/;"	f	typeref:struct:vec4 *
+psvec4_snap_f	mathc/mathc.c	/^struct vec4 *psvec4_snap_f(struct vec4 *result, struct vec4 *v0, mfloat_t f)$/;"	f	typeref:struct:vec4 *
+psvec4_subtract	mathc/mathc.c	/^struct vec4 *psvec4_subtract(struct vec4 *result, struct vec4 *v0, struct vec4 *v1)$/;"	f	typeref:struct:vec4 *
+psvec4_subtract_f	mathc/mathc.c	/^struct vec4 *psvec4_subtract_f(struct vec4 *result, struct vec4 *v0, mfloat_t f)$/;"	f	typeref:struct:vec4 *
+psvec4_zero	mathc/mathc.c	/^struct vec4 *psvec4_zero(struct vec4 *result)$/;"	f	typeref:struct:vec4 *
+psvec4i	mathc/mathc.c	/^struct vec4i *psvec4i(struct vec4i *result, mint_t x, mint_t y, mint_t z, mint_t w)$/;"	f	typeref:struct:vec4i *
+psvec4i_abs	mathc/mathc.c	/^struct vec4i *psvec4i_abs(struct vec4i *result, struct vec4i *v0)$/;"	f	typeref:struct:vec4i *
+psvec4i_add	mathc/mathc.c	/^struct vec4i *psvec4i_add(struct vec4i *result, struct vec4i *v0, struct vec4i *v1)$/;"	f	typeref:struct:vec4i *
+psvec4i_add_i	mathc/mathc.c	/^struct vec4i *psvec4i_add_i(struct vec4i *result, struct vec4i *v0, mint_t i)$/;"	f	typeref:struct:vec4i *
+psvec4i_assign	mathc/mathc.c	/^struct vec4i *psvec4i_assign(struct vec4i *result, struct vec4i *v0)$/;"	f	typeref:struct:vec4i *
+psvec4i_assign_vec4	mathc/mathc.c	/^struct vec4i *psvec4i_assign_vec4(struct vec4i *result, struct vec4 *v0)$/;"	f	typeref:struct:vec4i *
+psvec4i_clamp	mathc/mathc.c	/^struct vec4i *psvec4i_clamp(struct vec4i *result, struct vec4i *v0, struct vec4i *v1, struct vec/;"	f	typeref:struct:vec4i *
+psvec4i_divide	mathc/mathc.c	/^struct vec4i *psvec4i_divide(struct vec4i *result, struct vec4i *v0, struct vec4i *v1)$/;"	f	typeref:struct:vec4i *
+psvec4i_divide_i	mathc/mathc.c	/^struct vec4i *psvec4i_divide_i(struct vec4i *result, struct vec4i *v0, mint_t i)$/;"	f	typeref:struct:vec4i *
+psvec4i_is_equal	mathc/mathc.c	/^bool psvec4i_is_equal(struct vec4i *v0, struct vec4i *v1)$/;"	f	typeref:typename:bool
+psvec4i_is_zero	mathc/mathc.c	/^bool psvec4i_is_zero(struct vec4i *v0)$/;"	f	typeref:typename:bool
+psvec4i_max	mathc/mathc.c	/^struct vec4i *psvec4i_max(struct vec4i *result, struct vec4i *v0, struct vec4i *v1)$/;"	f	typeref:struct:vec4i *
+psvec4i_min	mathc/mathc.c	/^struct vec4i *psvec4i_min(struct vec4i *result, struct vec4i *v0, struct vec4i *v1)$/;"	f	typeref:struct:vec4i *
+psvec4i_multiply	mathc/mathc.c	/^struct vec4i *psvec4i_multiply(struct vec4i *result, struct vec4i *v0, struct vec4i *v1)$/;"	f	typeref:struct:vec4i *
+psvec4i_multiply_i	mathc/mathc.c	/^struct vec4i *psvec4i_multiply_i(struct vec4i *result, struct vec4i *v0, mint_t i)$/;"	f	typeref:struct:vec4i *
+psvec4i_negative	mathc/mathc.c	/^struct vec4i *psvec4i_negative(struct vec4i *result, struct vec4i *v0)$/;"	f	typeref:struct:vec4i *
+psvec4i_one	mathc/mathc.c	/^struct vec4i *psvec4i_one(struct vec4i *result)$/;"	f	typeref:struct:vec4i *
+psvec4i_sign	mathc/mathc.c	/^struct vec4i *psvec4i_sign(struct vec4i *result, struct vec4i *v0)$/;"	f	typeref:struct:vec4i *
+psvec4i_snap	mathc/mathc.c	/^struct vec4i *psvec4i_snap(struct vec4i *result, struct vec4i *v0, struct vec4i *v1)$/;"	f	typeref:struct:vec4i *
+psvec4i_snap_i	mathc/mathc.c	/^struct vec4i *psvec4i_snap_i(struct vec4i *result, struct vec4i *v0, mint_t i)$/;"	f	typeref:struct:vec4i *
+psvec4i_subtract	mathc/mathc.c	/^struct vec4i *psvec4i_subtract(struct vec4i *result, struct vec4i *v0, struct vec4i *v1)$/;"	f	typeref:struct:vec4i *
+psvec4i_subtract_i	mathc/mathc.c	/^struct vec4i *psvec4i_subtract_i(struct vec4i *result, struct vec4i *v0, mint_t i)$/;"	f	typeref:struct:vec4i *
+psvec4i_zero	mathc/mathc.c	/^struct vec4i *psvec4i_zero(struct vec4i *result)$/;"	f	typeref:struct:vec4i *
+quadratic_ease_in	mathc/mathc.c	/^mfloat_t quadratic_ease_in(mfloat_t f)$/;"	f	typeref:typename:mfloat_t
+quadratic_ease_in_out	mathc/mathc.c	/^mfloat_t quadratic_ease_in_out(mfloat_t f)$/;"	f	typeref:typename:mfloat_t
+quadratic_ease_out	mathc/mathc.c	/^mfloat_t quadratic_ease_out(mfloat_t f)$/;"	f	typeref:typename:mfloat_t
+quartic_ease_in	mathc/mathc.c	/^mfloat_t quartic_ease_in(mfloat_t f)$/;"	f	typeref:typename:mfloat_t
+quartic_ease_in_out	mathc/mathc.c	/^mfloat_t quartic_ease_in_out(mfloat_t f)$/;"	f	typeref:typename:mfloat_t
+quartic_ease_out	mathc/mathc.c	/^mfloat_t quartic_ease_out(mfloat_t f)$/;"	f	typeref:typename:mfloat_t
+quat	mathc/mathc.c	/^mfloat_t *quat(mfloat_t *result, mfloat_t x, mfloat_t y, mfloat_t z, mfloat_t w)$/;"	f	typeref:typename:mfloat_t *
+quat	mathc/mathc.h	/^struct quat {$/;"	s
+quat	mathc_stripped.h	/^struct quat {$/;"	s
+quat_angle	mathc/mathc.c	/^mfloat_t quat_angle(mfloat_t *q0, mfloat_t *q1)$/;"	f	typeref:typename:mfloat_t
+quat_assign	mathc/mathc.c	/^mfloat_t *quat_assign(mfloat_t *result, mfloat_t *q0)$/;"	f	typeref:typename:mfloat_t *
+quat_conjugate	mathc/mathc.c	/^mfloat_t *quat_conjugate(mfloat_t *result, mfloat_t *q0)$/;"	f	typeref:typename:mfloat_t *
+quat_divide	mathc/mathc.c	/^mfloat_t *quat_divide(mfloat_t *result, mfloat_t *q0, mfloat_t *q1)$/;"	f	typeref:typename:mfloat_t *
+quat_divide_f	mathc/mathc.c	/^mfloat_t *quat_divide_f(mfloat_t *result, mfloat_t *q0, mfloat_t f)$/;"	f	typeref:typename:mfloat_t *
+quat_dot	mathc/mathc.c	/^mfloat_t quat_dot(mfloat_t *q0, mfloat_t *q1)$/;"	f	typeref:typename:mfloat_t
+quat_from_axis_angle	mathc/mathc.c	/^mfloat_t *quat_from_axis_angle(mfloat_t *result, mfloat_t *v0, mfloat_t angle)$/;"	f	typeref:typename:mfloat_t *
+quat_from_mat4	mathc/mathc.c	/^mfloat_t *quat_from_mat4(mfloat_t *result, mfloat_t *m0)$/;"	f	typeref:typename:mfloat_t *
+quat_from_vec3	mathc/mathc.c	/^mfloat_t *quat_from_vec3(mfloat_t *result, mfloat_t *v0, mfloat_t *v1)$/;"	f	typeref:typename:mfloat_t *
+quat_inverse	mathc/mathc.c	/^mfloat_t *quat_inverse(mfloat_t *result, mfloat_t *q0)$/;"	f	typeref:typename:mfloat_t *
+quat_is_equal	mathc/mathc.c	/^bool quat_is_equal(mfloat_t *q0, mfloat_t *q1)$/;"	f	typeref:typename:bool
+quat_is_zero	mathc/mathc.c	/^bool quat_is_zero(mfloat_t *q0)$/;"	f	typeref:typename:bool
+quat_length	mathc/mathc.c	/^mfloat_t quat_length(mfloat_t *q0)$/;"	f	typeref:typename:mfloat_t
+quat_length_squared	mathc/mathc.c	/^mfloat_t quat_length_squared(mfloat_t *q0)$/;"	f	typeref:typename:mfloat_t
+quat_lerp	mathc/mathc.c	/^mfloat_t *quat_lerp(mfloat_t *result, mfloat_t *q0, mfloat_t *q1, mfloat_t f)$/;"	f	typeref:typename:mfloat_t *
+quat_multiply	mathc/mathc.c	/^mfloat_t *quat_multiply(mfloat_t *result, mfloat_t *q0, mfloat_t *q1)$/;"	f	typeref:typename:mfloat_t *
+quat_multiply_f	mathc/mathc.c	/^mfloat_t *quat_multiply_f(mfloat_t *result, mfloat_t *q0, mfloat_t f)$/;"	f	typeref:typename:mfloat_t *
+quat_negative	mathc/mathc.c	/^mfloat_t *quat_negative(mfloat_t *result, mfloat_t *q0)$/;"	f	typeref:typename:mfloat_t *
+quat_normalize	mathc/mathc.c	/^mfloat_t *quat_normalize(mfloat_t *result, mfloat_t *q0)$/;"	f	typeref:typename:mfloat_t *
+quat_null	mathc/mathc.c	/^mfloat_t *quat_null(mfloat_t *result)$/;"	f	typeref:typename:mfloat_t *
+quat_power	mathc/mathc.c	/^mfloat_t *quat_power(mfloat_t *result, mfloat_t *q0, mfloat_t exponent)$/;"	f	typeref:typename:mfloat_t *
+quat_slerp	mathc/mathc.c	/^mfloat_t *quat_slerp(mfloat_t *result, mfloat_t *q0, mfloat_t *q1, mfloat_t f)$/;"	f	typeref:typename:mfloat_t *
+quat_zero	mathc/mathc.c	/^mfloat_t *quat_zero(mfloat_t *result)$/;"	f	typeref:typename:mfloat_t *
+quintic_ease_in	mathc/mathc.c	/^mfloat_t quintic_ease_in(mfloat_t f)$/;"	f	typeref:typename:mfloat_t
+quintic_ease_in_out	mathc/mathc.c	/^mfloat_t quintic_ease_in_out(mfloat_t f)$/;"	f	typeref:typename:mfloat_t
+quintic_ease_out	mathc/mathc.c	/^mfloat_t quintic_ease_out(mfloat_t f)$/;"	f	typeref:typename:mfloat_t
+rotate	vmath.lua	/^		rotate = function(self, rotation_axis, radians)$/;"	f
+sine_ease_in	mathc/mathc.c	/^mfloat_t sine_ease_in(mfloat_t f)$/;"	f	typeref:typename:mfloat_t
+sine_ease_in_out	mathc/mathc.c	/^mfloat_t sine_ease_in_out(mfloat_t f)$/;"	f	typeref:typename:mfloat_t
+sine_ease_out	mathc/mathc.c	/^mfloat_t sine_ease_out(mfloat_t f)$/;"	f	typeref:typename:mfloat_t
+slurp	vmath.lua	/^local function slurp(path)$/;"	f
+smat2	mathc/mathc.c	/^struct mat2 smat2(mfloat_t m11, mfloat_t m12, mfloat_t m21, mfloat_t m22)$/;"	f	typeref:struct:mat2
+smat2_adjugate	mathc/mathc.c	/^struct mat2 smat2_adjugate(struct mat2 m0)$/;"	f	typeref:struct:mat2
+smat2_assign	mathc/mathc.c	/^struct mat2 smat2_assign(struct mat2 m0)$/;"	f	typeref:struct:mat2
+smat2_cofactor	mathc/mathc.c	/^struct mat2 smat2_cofactor(struct mat2 m0)$/;"	f	typeref:struct:mat2
+smat2_determinant	mathc/mathc.c	/^mfloat_t smat2_determinant(struct mat2 m0)$/;"	f	typeref:typename:mfloat_t
+smat2_identity	mathc/mathc.c	/^struct mat2 smat2_identity(void)$/;"	f	typeref:struct:mat2
+smat2_inverse	mathc/mathc.c	/^struct mat2 smat2_inverse(struct mat2 m0)$/;"	f	typeref:struct:mat2
+smat2_lerp	mathc/mathc.c	/^struct mat2 smat2_lerp(struct mat2 m0, struct mat2 m1, mfloat_t f)$/;"	f	typeref:struct:mat2
+smat2_multiply	mathc/mathc.c	/^struct mat2 smat2_multiply(struct mat2 m0, struct mat2 m1)$/;"	f	typeref:struct:mat2
+smat2_multiply_f	mathc/mathc.c	/^struct mat2 smat2_multiply_f(struct mat2 m0, mfloat_t f)$/;"	f	typeref:struct:mat2
+smat2_negative	mathc/mathc.c	/^struct mat2 smat2_negative(struct mat2 m0)$/;"	f	typeref:struct:mat2
+smat2_rotation_z	mathc/mathc.c	/^struct mat2 smat2_rotation_z(mfloat_t f)$/;"	f	typeref:struct:mat2
+smat2_scale	mathc/mathc.c	/^struct mat2 smat2_scale(struct mat2 m0, struct vec2 v0)$/;"	f	typeref:struct:mat2
+smat2_scaling	mathc/mathc.c	/^struct mat2 smat2_scaling(struct vec2 v0)$/;"	f	typeref:struct:mat2
+smat2_transpose	mathc/mathc.c	/^struct mat2 smat2_transpose(struct mat2 m0)$/;"	f	typeref:struct:mat2
+smat2_zero	mathc/mathc.c	/^struct mat2 smat2_zero(void)$/;"	f	typeref:struct:mat2
+smat3	mathc/mathc.c	/^struct mat3 smat3(mfloat_t m11, mfloat_t m12, mfloat_t m13, mfloat_t m21, mfloat_t m22, mfloat_t/;"	f	typeref:struct:mat3
+smat3_assign	mathc/mathc.c	/^struct mat3 smat3_assign(struct mat3 m0)$/;"	f	typeref:struct:mat3
+smat3_cofactor	mathc/mathc.c	/^struct mat3 smat3_cofactor(struct mat3 m0)$/;"	f	typeref:struct:mat3
+smat3_determinant	mathc/mathc.c	/^mfloat_t smat3_determinant(struct mat3 m0)$/;"	f	typeref:typename:mfloat_t
+smat3_identity	mathc/mathc.c	/^struct mat3 smat3_identity(void)$/;"	f	typeref:struct:mat3
+smat3_inverse	mathc/mathc.c	/^struct mat3 smat3_inverse(struct mat3 m0)$/;"	f	typeref:struct:mat3
+smat3_lerp	mathc/mathc.c	/^struct mat3 smat3_lerp(struct mat3 m0, struct mat3 m1, mfloat_t f)$/;"	f	typeref:struct:mat3
+smat3_multiply	mathc/mathc.c	/^struct mat3 smat3_multiply(struct mat3 m0, struct mat3 m1)$/;"	f	typeref:struct:mat3
+smat3_multiply_f	mathc/mathc.c	/^struct mat3 smat3_multiply_f(struct mat3 m0, mfloat_t f)$/;"	f	typeref:struct:mat3
+smat3_negative	mathc/mathc.c	/^struct mat3 smat3_negative(struct mat3 m0)$/;"	f	typeref:struct:mat3
+smat3_rotation_axis	mathc/mathc.c	/^struct mat3 smat3_rotation_axis(struct vec3 v0, mfloat_t f)$/;"	f	typeref:struct:mat3
+smat3_rotation_quat	mathc/mathc.c	/^struct mat3 smat3_rotation_quat(struct quat q0)$/;"	f	typeref:struct:mat3
+smat3_rotation_x	mathc/mathc.c	/^struct mat3 smat3_rotation_x(mfloat_t f)$/;"	f	typeref:struct:mat3
+smat3_rotation_y	mathc/mathc.c	/^struct mat3 smat3_rotation_y(mfloat_t f)$/;"	f	typeref:struct:mat3
+smat3_rotation_z	mathc/mathc.c	/^struct mat3 smat3_rotation_z(mfloat_t f)$/;"	f	typeref:struct:mat3
+smat3_scale	mathc/mathc.c	/^struct mat3 smat3_scale(struct mat3 m0, struct vec3 v0)$/;"	f	typeref:struct:mat3
+smat3_scaling	mathc/mathc.c	/^struct mat3 smat3_scaling(struct vec3 v0)$/;"	f	typeref:struct:mat3
+smat3_transpose	mathc/mathc.c	/^struct mat3 smat3_transpose(struct mat3 m0)$/;"	f	typeref:struct:mat3
+smat3_zero	mathc/mathc.c	/^struct mat3 smat3_zero(void)$/;"	f	typeref:struct:mat3
+smat4	mathc/mathc.c	/^struct mat4 smat4(mfloat_t m11, mfloat_t m12, mfloat_t m13, mfloat_t m14, mfloat_t m21, mfloat_t/;"	f	typeref:struct:mat4
+smat4_assign	mathc/mathc.c	/^struct mat4 smat4_assign(struct mat4 m0)$/;"	f	typeref:struct:mat4
+smat4_cofactor	mathc/mathc.c	/^struct mat4 smat4_cofactor(struct mat4 m0)$/;"	f	typeref:struct:mat4
+smat4_determinant	mathc/mathc.c	/^mfloat_t smat4_determinant(struct mat4 m0)$/;"	f	typeref:typename:mfloat_t
+smat4_identity	mathc/mathc.c	/^struct mat4 smat4_identity(void)$/;"	f	typeref:struct:mat4
+smat4_inverse	mathc/mathc.c	/^struct mat4 smat4_inverse(struct mat4 m0)$/;"	f	typeref:struct:mat4
+smat4_lerp	mathc/mathc.c	/^struct mat4 smat4_lerp(struct mat4 m0, struct mat4 m1, mfloat_t f)$/;"	f	typeref:struct:mat4
+smat4_look_at	mathc/mathc.c	/^struct mat4 smat4_look_at(struct vec3 position, struct vec3 target, struct vec3 up)$/;"	f	typeref:struct:mat4
+smat4_multiply	mathc/mathc.c	/^struct mat4 smat4_multiply(struct mat4 m0, struct mat4 m1)$/;"	f	typeref:struct:mat4
+smat4_multiply_f	mathc/mathc.c	/^struct mat4 smat4_multiply_f(struct mat4 m0, mfloat_t f)$/;"	f	typeref:struct:mat4
+smat4_negative	mathc/mathc.c	/^struct mat4 smat4_negative(struct mat4 m0)$/;"	f	typeref:struct:mat4
+smat4_ortho	mathc/mathc.c	/^struct mat4 smat4_ortho(mfloat_t l, mfloat_t r, mfloat_t b, mfloat_t t, mfloat_t n, mfloat_t f)$/;"	f	typeref:struct:mat4
+smat4_perspective	mathc/mathc.c	/^struct mat4 smat4_perspective(mfloat_t fov_y, mfloat_t aspect, mfloat_t n, mfloat_t f)$/;"	f	typeref:struct:mat4
+smat4_perspective_fov	mathc/mathc.c	/^struct mat4 smat4_perspective_fov(mfloat_t fov, mfloat_t w, mfloat_t h, mfloat_t n, mfloat_t f)$/;"	f	typeref:struct:mat4
+smat4_perspective_infinite	mathc/mathc.c	/^struct mat4 smat4_perspective_infinite(mfloat_t fov_y, mfloat_t aspect, mfloat_t n)$/;"	f	typeref:struct:mat4
+smat4_rotation_axis	mathc/mathc.c	/^struct mat4 smat4_rotation_axis(struct vec3 v0, mfloat_t f)$/;"	f	typeref:struct:mat4
+smat4_rotation_quat	mathc/mathc.c	/^struct mat4 smat4_rotation_quat(struct quat q0)$/;"	f	typeref:struct:mat4
+smat4_rotation_x	mathc/mathc.c	/^struct mat4 smat4_rotation_x(mfloat_t f)$/;"	f	typeref:struct:mat4
+smat4_rotation_y	mathc/mathc.c	/^struct mat4 smat4_rotation_y(mfloat_t f)$/;"	f	typeref:struct:mat4
+smat4_rotation_z	mathc/mathc.c	/^struct mat4 smat4_rotation_z(mfloat_t f)$/;"	f	typeref:struct:mat4
+smat4_scale	mathc/mathc.c	/^struct mat4 smat4_scale(struct mat4 m0, struct vec3 v0)$/;"	f	typeref:struct:mat4
+smat4_scaling	mathc/mathc.c	/^struct mat4 smat4_scaling(struct mat4 m0, struct vec3 v0)$/;"	f	typeref:struct:mat4
+smat4_translate	mathc/mathc.c	/^struct mat4 smat4_translate(struct mat4 m0, struct vec3 v0)$/;"	f	typeref:struct:mat4
+smat4_translation	mathc/mathc.c	/^struct mat4 smat4_translation(struct mat4 m0, struct vec3 v0)$/;"	f	typeref:struct:mat4
+smat4_transpose	mathc/mathc.c	/^struct mat4 smat4_transpose(struct mat4 m0)$/;"	f	typeref:struct:mat4
+smat4_zero	mathc/mathc.c	/^struct mat4 smat4_zero(void)$/;"	f	typeref:struct:mat4
+squat	mathc/mathc.c	/^struct quat squat(mfloat_t x, mfloat_t y, mfloat_t z, mfloat_t w)$/;"	f	typeref:struct:quat
+squat_angle	mathc/mathc.c	/^mfloat_t squat_angle(struct quat q0, struct quat q1)$/;"	f	typeref:typename:mfloat_t
+squat_assign	mathc/mathc.c	/^struct quat squat_assign(struct quat q0)$/;"	f	typeref:struct:quat
+squat_conjugate	mathc/mathc.c	/^struct quat squat_conjugate(struct quat q0)$/;"	f	typeref:struct:quat
+squat_divide	mathc/mathc.c	/^struct quat squat_divide(struct quat q0, struct quat q1)$/;"	f	typeref:struct:quat
+squat_divide_f	mathc/mathc.c	/^struct quat squat_divide_f(struct quat q0, mfloat_t f)$/;"	f	typeref:struct:quat
+squat_dot	mathc/mathc.c	/^mfloat_t squat_dot(struct quat q0, struct quat q1)$/;"	f	typeref:typename:mfloat_t
+squat_from_axis_angle	mathc/mathc.c	/^struct quat squat_from_axis_angle(struct vec3 v0, mfloat_t angle)$/;"	f	typeref:struct:quat
+squat_from_mat4	mathc/mathc.c	/^struct quat squat_from_mat4(struct mat4 m0)$/;"	f	typeref:struct:quat
+squat_from_vec3	mathc/mathc.c	/^struct quat squat_from_vec3(struct vec3 v0, struct vec3 v1)$/;"	f	typeref:struct:quat
+squat_inverse	mathc/mathc.c	/^struct quat squat_inverse(struct quat q0)$/;"	f	typeref:struct:quat
+squat_is_equal	mathc/mathc.c	/^bool squat_is_equal(struct quat q0, struct quat q1)$/;"	f	typeref:typename:bool
+squat_is_zero	mathc/mathc.c	/^bool squat_is_zero(struct quat q0)$/;"	f	typeref:typename:bool
+squat_length	mathc/mathc.c	/^mfloat_t squat_length(struct quat q0)$/;"	f	typeref:typename:mfloat_t
+squat_length_squared	mathc/mathc.c	/^mfloat_t squat_length_squared(struct quat q0)$/;"	f	typeref:typename:mfloat_t
+squat_lerp	mathc/mathc.c	/^struct quat squat_lerp(struct quat q0, struct quat q1, mfloat_t f)$/;"	f	typeref:struct:quat
+squat_multiply	mathc/mathc.c	/^struct quat squat_multiply(struct quat q0, struct quat q1)$/;"	f	typeref:struct:quat
+squat_multiply_f	mathc/mathc.c	/^struct quat squat_multiply_f(struct quat q0, mfloat_t f)$/;"	f	typeref:struct:quat
+squat_negative	mathc/mathc.c	/^struct quat squat_negative(struct quat q0)$/;"	f	typeref:struct:quat
+squat_normalize	mathc/mathc.c	/^struct quat squat_normalize(struct quat q0)$/;"	f	typeref:struct:quat
+squat_null	mathc/mathc.c	/^struct quat squat_null(void)$/;"	f	typeref:struct:quat
+squat_power	mathc/mathc.c	/^struct quat squat_power(struct quat q0, mfloat_t exponent)$/;"	f	typeref:struct:quat
+squat_slerp	mathc/mathc.c	/^struct quat squat_slerp(struct quat q0, struct quat q1, mfloat_t f)$/;"	f	typeref:struct:quat
+squat_zero	mathc/mathc.c	/^struct quat squat_zero(void)$/;"	f	typeref:struct:quat
+svec2	mathc/mathc.c	/^struct vec2 svec2(mfloat_t x, mfloat_t y)$/;"	f	typeref:struct:vec2
+svec2_abs	mathc/mathc.c	/^struct vec2 svec2_abs(struct vec2 v0)$/;"	f	typeref:struct:vec2
+svec2_add	mathc/mathc.c	/^struct vec2 svec2_add(struct vec2 v0, struct vec2 v1)$/;"	f	typeref:struct:vec2
+svec2_add_f	mathc/mathc.c	/^struct vec2 svec2_add_f(struct vec2 v0, mfloat_t f)$/;"	f	typeref:struct:vec2
+svec2_angle	mathc/mathc.c	/^mfloat_t svec2_angle(struct vec2 v0)$/;"	f	typeref:typename:mfloat_t
+svec2_assign	mathc/mathc.c	/^struct vec2 svec2_assign(struct vec2 v0)$/;"	f	typeref:struct:vec2
+svec2_assign_vec2i	mathc/mathc.c	/^struct vec2 svec2_assign_vec2i(struct vec2i v0)$/;"	f	typeref:struct:vec2
+svec2_bezier3	mathc/mathc.c	/^struct vec2 svec2_bezier3(struct vec2 v0, struct vec2 v1, struct vec2 v2, mfloat_t f)$/;"	f	typeref:struct:vec2
+svec2_bezier4	mathc/mathc.c	/^struct vec2 svec2_bezier4(struct vec2 v0, struct vec2 v1, struct vec2 v2, struct vec2 v3, mfloat/;"	f	typeref:struct:vec2
+svec2_ceil	mathc/mathc.c	/^struct vec2 svec2_ceil(struct vec2 v0)$/;"	f	typeref:struct:vec2
+svec2_clamp	mathc/mathc.c	/^struct vec2 svec2_clamp(struct vec2 v0, struct vec2 v1, struct vec2 v2)$/;"	f	typeref:struct:vec2
+svec2_distance	mathc/mathc.c	/^mfloat_t svec2_distance(struct vec2 v0, struct vec2 v1)$/;"	f	typeref:typename:mfloat_t
+svec2_distance_squared	mathc/mathc.c	/^mfloat_t svec2_distance_squared(struct vec2 v0, struct vec2 v1)$/;"	f	typeref:typename:mfloat_t
+svec2_divide	mathc/mathc.c	/^struct vec2 svec2_divide(struct vec2 v0, struct vec2 v1)$/;"	f	typeref:struct:vec2
+svec2_divide_f	mathc/mathc.c	/^struct vec2 svec2_divide_f(struct vec2 v0, mfloat_t f)$/;"	f	typeref:struct:vec2
+svec2_dot	mathc/mathc.c	/^mfloat_t svec2_dot(struct vec2 v0, struct vec2 v1)$/;"	f	typeref:typename:mfloat_t
+svec2_floor	mathc/mathc.c	/^struct vec2 svec2_floor(struct vec2 v0)$/;"	f	typeref:struct:vec2
+svec2_is_equal	mathc/mathc.c	/^bool svec2_is_equal(struct vec2 v0, struct vec2 v1)$/;"	f	typeref:typename:bool
+svec2_is_zero	mathc/mathc.c	/^bool svec2_is_zero(struct vec2 v0)$/;"	f	typeref:typename:bool
+svec2_length	mathc/mathc.c	/^mfloat_t svec2_length(struct vec2 v0)$/;"	f	typeref:typename:mfloat_t
+svec2_length_squared	mathc/mathc.c	/^mfloat_t svec2_length_squared(struct vec2 v0)$/;"	f	typeref:typename:mfloat_t
+svec2_lerp	mathc/mathc.c	/^struct vec2 svec2_lerp(struct vec2 v0, struct vec2 v1, mfloat_t f)$/;"	f	typeref:struct:vec2
+svec2_max	mathc/mathc.c	/^struct vec2 svec2_max(struct vec2 v0, struct vec2 v1)$/;"	f	typeref:struct:vec2
+svec2_min	mathc/mathc.c	/^struct vec2 svec2_min(struct vec2 v0, struct vec2 v1)$/;"	f	typeref:struct:vec2
+svec2_multiply	mathc/mathc.c	/^struct vec2 svec2_multiply(struct vec2 v0, struct vec2 v1)$/;"	f	typeref:struct:vec2
+svec2_multiply_f	mathc/mathc.c	/^struct vec2 svec2_multiply_f(struct vec2 v0, mfloat_t f)$/;"	f	typeref:struct:vec2
+svec2_multiply_mat2	mathc/mathc.c	/^struct vec2 svec2_multiply_mat2(struct vec2 v0, struct mat2 m0)$/;"	f	typeref:struct:vec2
+svec2_negative	mathc/mathc.c	/^struct vec2 svec2_negative(struct vec2 v0)$/;"	f	typeref:struct:vec2
+svec2_normalize	mathc/mathc.c	/^struct vec2 svec2_normalize(struct vec2 v0)$/;"	f	typeref:struct:vec2
+svec2_one	mathc/mathc.c	/^struct vec2 svec2_one(void)$/;"	f	typeref:struct:vec2
+svec2_project	mathc/mathc.c	/^struct vec2 svec2_project(struct vec2 v0, struct vec2 v1)$/;"	f	typeref:struct:vec2
+svec2_reflect	mathc/mathc.c	/^struct vec2 svec2_reflect(struct vec2 v0, struct vec2 normal)$/;"	f	typeref:struct:vec2
+svec2_rotate	mathc/mathc.c	/^struct vec2 svec2_rotate(struct vec2 v0, mfloat_t f)$/;"	f	typeref:struct:vec2
+svec2_round	mathc/mathc.c	/^struct vec2 svec2_round(struct vec2 v0)$/;"	f	typeref:struct:vec2
+svec2_sign	mathc/mathc.c	/^struct vec2 svec2_sign(struct vec2 v0)$/;"	f	typeref:struct:vec2
+svec2_slide	mathc/mathc.c	/^struct vec2 svec2_slide(struct vec2 v0, struct vec2 normal)$/;"	f	typeref:struct:vec2
+svec2_snap	mathc/mathc.c	/^struct vec2 svec2_snap(struct vec2 v0, struct vec2 v1)$/;"	f	typeref:struct:vec2
+svec2_snap_f	mathc/mathc.c	/^struct vec2 svec2_snap_f(struct vec2 v0, mfloat_t f)$/;"	f	typeref:struct:vec2
+svec2_subtract	mathc/mathc.c	/^struct vec2 svec2_subtract(struct vec2 v0, struct vec2 v1)$/;"	f	typeref:struct:vec2
+svec2_subtract_f	mathc/mathc.c	/^struct vec2 svec2_subtract_f(struct vec2 v0, mfloat_t f)$/;"	f	typeref:struct:vec2
+svec2_tangent	mathc/mathc.c	/^struct vec2 svec2_tangent(struct vec2 v0)$/;"	f	typeref:struct:vec2
+svec2_zero	mathc/mathc.c	/^struct vec2 svec2_zero(void)$/;"	f	typeref:struct:vec2
+svec2i	mathc/mathc.c	/^struct vec2i svec2i(mint_t x, mint_t y)$/;"	f	typeref:struct:vec2i
+svec2i_abs	mathc/mathc.c	/^struct vec2i svec2i_abs(struct vec2i v0)$/;"	f	typeref:struct:vec2i
+svec2i_add	mathc/mathc.c	/^struct vec2i svec2i_add(struct vec2i v0, struct vec2i v1)$/;"	f	typeref:struct:vec2i
+svec2i_add_i	mathc/mathc.c	/^struct vec2i svec2i_add_i(struct vec2i v0, mint_t i)$/;"	f	typeref:struct:vec2i
+svec2i_assign	mathc/mathc.c	/^struct vec2i svec2i_assign(struct vec2i v0)$/;"	f	typeref:struct:vec2i
+svec2i_assign_vec2	mathc/mathc.c	/^struct vec2i svec2i_assign_vec2(struct vec2 v0)$/;"	f	typeref:struct:vec2i
+svec2i_clamp	mathc/mathc.c	/^struct vec2i svec2i_clamp(struct vec2i v0, struct vec2i v1, struct vec2i v2)$/;"	f	typeref:struct:vec2i
+svec2i_divide	mathc/mathc.c	/^struct vec2i svec2i_divide(struct vec2i v0, struct vec2i v1)$/;"	f	typeref:struct:vec2i
+svec2i_divide_i	mathc/mathc.c	/^struct vec2i svec2i_divide_i(struct vec2i v0, mint_t i)$/;"	f	typeref:struct:vec2i
+svec2i_is_equal	mathc/mathc.c	/^bool svec2i_is_equal(struct vec2i v0, struct vec2i v1)$/;"	f	typeref:typename:bool
+svec2i_is_zero	mathc/mathc.c	/^bool svec2i_is_zero(struct vec2i v0)$/;"	f	typeref:typename:bool
+svec2i_max	mathc/mathc.c	/^struct vec2i svec2i_max(struct vec2i v0, struct vec2i v1)$/;"	f	typeref:struct:vec2i
+svec2i_min	mathc/mathc.c	/^struct vec2i svec2i_min(struct vec2i v0, struct vec2i v1)$/;"	f	typeref:struct:vec2i
+svec2i_multiply	mathc/mathc.c	/^struct vec2i svec2i_multiply(struct vec2i v0, struct vec2i v1)$/;"	f	typeref:struct:vec2i
+svec2i_multiply_i	mathc/mathc.c	/^struct vec2i svec2i_multiply_i(struct vec2i v0, mint_t i)$/;"	f	typeref:struct:vec2i
+svec2i_negative	mathc/mathc.c	/^struct vec2i svec2i_negative(struct vec2i v0)$/;"	f	typeref:struct:vec2i
+svec2i_one	mathc/mathc.c	/^struct vec2i svec2i_one(void)$/;"	f	typeref:struct:vec2i
+svec2i_sign	mathc/mathc.c	/^struct vec2i svec2i_sign(struct vec2i v0)$/;"	f	typeref:struct:vec2i
+svec2i_snap	mathc/mathc.c	/^struct vec2i svec2i_snap(struct vec2i v0, struct vec2i v1)$/;"	f	typeref:struct:vec2i
+svec2i_snap_i	mathc/mathc.c	/^struct vec2i svec2i_snap_i(struct vec2i v0, mint_t i)$/;"	f	typeref:struct:vec2i
+svec2i_subtract	mathc/mathc.c	/^struct vec2i svec2i_subtract(struct vec2i v0, struct vec2i v1)$/;"	f	typeref:struct:vec2i
+svec2i_subtract_i	mathc/mathc.c	/^struct vec2i svec2i_subtract_i(struct vec2i v0, mint_t i)$/;"	f	typeref:struct:vec2i
+svec2i_tangent	mathc/mathc.c	/^struct vec2i svec2i_tangent(struct vec2i v0)$/;"	f	typeref:struct:vec2i
+svec2i_zero	mathc/mathc.c	/^struct vec2i svec2i_zero(void)$/;"	f	typeref:struct:vec2i
+svec3	mathc/mathc.c	/^struct vec3 svec3(mfloat_t x, mfloat_t y, mfloat_t z)$/;"	f	typeref:struct:vec3
+svec3_abs	mathc/mathc.c	/^struct vec3 svec3_abs(struct vec3 v0)$/;"	f	typeref:struct:vec3
+svec3_add	mathc/mathc.c	/^struct vec3 svec3_add(struct vec3 v0, struct vec3 v1)$/;"	f	typeref:struct:vec3
+svec3_add_f	mathc/mathc.c	/^struct vec3 svec3_add_f(struct vec3 v0, mfloat_t f)$/;"	f	typeref:struct:vec3
+svec3_assign	mathc/mathc.c	/^struct vec3 svec3_assign(struct vec3 v0)$/;"	f	typeref:struct:vec3
+svec3_assign_vec3i	mathc/mathc.c	/^struct vec3 svec3_assign_vec3i(struct vec3i v0)$/;"	f	typeref:struct:vec3
+svec3_bezier3	mathc/mathc.c	/^struct vec3 svec3_bezier3(struct vec3 v0, struct vec3 v1, struct vec3 v2, mfloat_t f)$/;"	f	typeref:struct:vec3
+svec3_bezier4	mathc/mathc.c	/^struct vec3 svec3_bezier4(struct vec3 v0, struct vec3 v1, struct vec3 v2, struct vec3 v3, mfloat/;"	f	typeref:struct:vec3
+svec3_ceil	mathc/mathc.c	/^struct vec3 svec3_ceil(struct vec3 v0)$/;"	f	typeref:struct:vec3
+svec3_clamp	mathc/mathc.c	/^struct vec3 svec3_clamp(struct vec3 v0, struct vec3 v1, struct vec3 v2)$/;"	f	typeref:struct:vec3
+svec3_cross	mathc/mathc.c	/^struct vec3 svec3_cross(struct vec3 v0, struct vec3 v1)$/;"	f	typeref:struct:vec3
+svec3_distance	mathc/mathc.c	/^mfloat_t svec3_distance(struct vec3 v0, struct vec3 v1)$/;"	f	typeref:typename:mfloat_t
+svec3_distance_squared	mathc/mathc.c	/^mfloat_t svec3_distance_squared(struct vec3 v0, struct vec3 v1)$/;"	f	typeref:typename:mfloat_t
+svec3_divide	mathc/mathc.c	/^struct vec3 svec3_divide(struct vec3 v0, struct vec3 v1)$/;"	f	typeref:struct:vec3
+svec3_divide_f	mathc/mathc.c	/^struct vec3 svec3_divide_f(struct vec3 v0, mfloat_t f)$/;"	f	typeref:struct:vec3
+svec3_dot	mathc/mathc.c	/^mfloat_t svec3_dot(struct vec3 v0, struct vec3 v1)$/;"	f	typeref:typename:mfloat_t
+svec3_floor	mathc/mathc.c	/^struct vec3 svec3_floor(struct vec3 v0)$/;"	f	typeref:struct:vec3
+svec3_is_equal	mathc/mathc.c	/^bool svec3_is_equal(struct vec3 v0, struct vec3 v1)$/;"	f	typeref:typename:bool
+svec3_is_zero	mathc/mathc.c	/^bool svec3_is_zero(struct vec3 v0)$/;"	f	typeref:typename:bool
+svec3_length	mathc/mathc.c	/^mfloat_t svec3_length(struct vec3 v0)$/;"	f	typeref:typename:mfloat_t
+svec3_length_squared	mathc/mathc.c	/^mfloat_t svec3_length_squared(struct vec3 v0)$/;"	f	typeref:typename:mfloat_t
+svec3_lerp	mathc/mathc.c	/^struct vec3 svec3_lerp(struct vec3 v0, struct vec3 v1, mfloat_t f)$/;"	f	typeref:struct:vec3
+svec3_max	mathc/mathc.c	/^struct vec3 svec3_max(struct vec3 v0, struct vec3 v1)$/;"	f	typeref:struct:vec3
+svec3_min	mathc/mathc.c	/^struct vec3 svec3_min(struct vec3 v0, struct vec3 v1)$/;"	f	typeref:struct:vec3
+svec3_multiply	mathc/mathc.c	/^struct vec3 svec3_multiply(struct vec3 v0, struct vec3 v1)$/;"	f	typeref:struct:vec3
+svec3_multiply_f	mathc/mathc.c	/^struct vec3 svec3_multiply_f(struct vec3 v0, mfloat_t f)$/;"	f	typeref:struct:vec3
+svec3_multiply_mat3	mathc/mathc.c	/^struct vec3 svec3_multiply_mat3(struct vec3 v0, struct mat3 m0)$/;"	f	typeref:struct:vec3
+svec3_negative	mathc/mathc.c	/^struct vec3 svec3_negative(struct vec3 v0)$/;"	f	typeref:struct:vec3
+svec3_normalize	mathc/mathc.c	/^struct vec3 svec3_normalize(struct vec3 v0)$/;"	f	typeref:struct:vec3
+svec3_one	mathc/mathc.c	/^struct vec3 svec3_one(void)$/;"	f	typeref:struct:vec3
+svec3_project	mathc/mathc.c	/^struct vec3 svec3_project(struct vec3 v0, struct vec3 v1)$/;"	f	typeref:struct:vec3
+svec3_reflect	mathc/mathc.c	/^struct vec3 svec3_reflect(struct vec3 v0, struct vec3 normal)$/;"	f	typeref:struct:vec3
+svec3_rotate	mathc/mathc.c	/^struct vec3 svec3_rotate(struct vec3 v0, struct vec3 ra, mfloat_t f)$/;"	f	typeref:struct:vec3
+svec3_round	mathc/mathc.c	/^struct vec3 svec3_round(struct vec3 v0)$/;"	f	typeref:struct:vec3
+svec3_sign	mathc/mathc.c	/^struct vec3 svec3_sign(struct vec3 v0)$/;"	f	typeref:struct:vec3
+svec3_slide	mathc/mathc.c	/^struct vec3 svec3_slide(struct vec3 v0, struct vec3 normal)$/;"	f	typeref:struct:vec3
+svec3_snap	mathc/mathc.c	/^struct vec3 svec3_snap(struct vec3 v0, struct vec3 v1)$/;"	f	typeref:struct:vec3
+svec3_snap_f	mathc/mathc.c	/^struct vec3 svec3_snap_f(struct vec3 v0, mfloat_t f)$/;"	f	typeref:struct:vec3
+svec3_subtract	mathc/mathc.c	/^struct vec3 svec3_subtract(struct vec3 v0, struct vec3 v1)$/;"	f	typeref:struct:vec3
+svec3_subtract_f	mathc/mathc.c	/^struct vec3 svec3_subtract_f(struct vec3 v0, mfloat_t f)$/;"	f	typeref:struct:vec3
+svec3_zero	mathc/mathc.c	/^struct vec3 svec3_zero(void)$/;"	f	typeref:struct:vec3
+svec3i	mathc/mathc.c	/^struct vec3i svec3i(mint_t x, mint_t y, mint_t z)$/;"	f	typeref:struct:vec3i
+svec3i_abs	mathc/mathc.c	/^struct vec3i svec3i_abs(struct vec3i v0)$/;"	f	typeref:struct:vec3i
+svec3i_add	mathc/mathc.c	/^struct vec3i svec3i_add(struct vec3i v0, struct vec3i v1)$/;"	f	typeref:struct:vec3i
+svec3i_add_i	mathc/mathc.c	/^struct vec3i svec3i_add_i(struct vec3i v0, mint_t i)$/;"	f	typeref:struct:vec3i
+svec3i_assign	mathc/mathc.c	/^struct vec3i svec3i_assign(struct vec3i v0)$/;"	f	typeref:struct:vec3i
+svec3i_assign_vec3	mathc/mathc.c	/^struct vec3i svec3i_assign_vec3(struct vec3 v0)$/;"	f	typeref:struct:vec3i
+svec3i_clamp	mathc/mathc.c	/^struct vec3i svec3i_clamp(struct vec3i v0, struct vec3i v1, struct vec3i v2)$/;"	f	typeref:struct:vec3i
+svec3i_cross	mathc/mathc.c	/^struct vec3i svec3i_cross(struct vec3i v0, struct vec3i v1)$/;"	f	typeref:struct:vec3i
+svec3i_divide	mathc/mathc.c	/^struct vec3i svec3i_divide(struct vec3i v0, struct vec3i v1)$/;"	f	typeref:struct:vec3i
+svec3i_divide_i	mathc/mathc.c	/^struct vec3i svec3i_divide_i(struct vec3i v0, mint_t i)$/;"	f	typeref:struct:vec3i
+svec3i_is_equal	mathc/mathc.c	/^bool svec3i_is_equal(struct vec3i v0, struct vec3i v1)$/;"	f	typeref:typename:bool
+svec3i_is_zero	mathc/mathc.c	/^bool svec3i_is_zero(struct vec3i v0)$/;"	f	typeref:typename:bool
+svec3i_max	mathc/mathc.c	/^struct vec3i svec3i_max(struct vec3i v0, struct vec3i v1)$/;"	f	typeref:struct:vec3i
+svec3i_min	mathc/mathc.c	/^struct vec3i svec3i_min(struct vec3i v0, struct vec3i v1)$/;"	f	typeref:struct:vec3i
+svec3i_multiply	mathc/mathc.c	/^struct vec3i svec3i_multiply(struct vec3i v0, struct vec3i v1)$/;"	f	typeref:struct:vec3i
+svec3i_multiply_i	mathc/mathc.c	/^struct vec3i svec3i_multiply_i(struct vec3i v0, mint_t i)$/;"	f	typeref:struct:vec3i
+svec3i_negative	mathc/mathc.c	/^struct vec3i svec3i_negative(struct vec3i v0)$/;"	f	typeref:struct:vec3i
+svec3i_one	mathc/mathc.c	/^struct vec3i svec3i_one(void)$/;"	f	typeref:struct:vec3i
+svec3i_sign	mathc/mathc.c	/^struct vec3i svec3i_sign(struct vec3i v0)$/;"	f	typeref:struct:vec3i
+svec3i_snap	mathc/mathc.c	/^struct vec3i svec3i_snap(struct vec3i v0, struct vec3i v1)$/;"	f	typeref:struct:vec3i
+svec3i_snap_i	mathc/mathc.c	/^struct vec3i svec3i_snap_i(struct vec3i v0, mint_t i)$/;"	f	typeref:struct:vec3i
+svec3i_subtract	mathc/mathc.c	/^struct vec3i svec3i_subtract(struct vec3i v0, struct vec3i v1)$/;"	f	typeref:struct:vec3i
+svec3i_subtract_i	mathc/mathc.c	/^struct vec3i svec3i_subtract_i(struct vec3i v0, mint_t i)$/;"	f	typeref:struct:vec3i
+svec3i_zero	mathc/mathc.c	/^struct vec3i svec3i_zero(void)$/;"	f	typeref:struct:vec3i
+svec4	mathc/mathc.c	/^struct vec4 svec4(mfloat_t x, mfloat_t y, mfloat_t z, mfloat_t w)$/;"	f	typeref:struct:vec4
+svec4_abs	mathc/mathc.c	/^struct vec4 svec4_abs(struct vec4 v0)$/;"	f	typeref:struct:vec4
+svec4_add	mathc/mathc.c	/^struct vec4 svec4_add(struct vec4 v0, struct vec4 v1)$/;"	f	typeref:struct:vec4
+svec4_add_f	mathc/mathc.c	/^struct vec4 svec4_add_f(struct vec4 v0, mfloat_t f)$/;"	f	typeref:struct:vec4
+svec4_assign	mathc/mathc.c	/^struct vec4 svec4_assign(struct vec4 v0)$/;"	f	typeref:struct:vec4
+svec4_assign_vec4i	mathc/mathc.c	/^struct vec4 svec4_assign_vec4i(struct vec4i v0)$/;"	f	typeref:struct:vec4
+svec4_ceil	mathc/mathc.c	/^struct vec4 svec4_ceil(struct vec4 v0)$/;"	f	typeref:struct:vec4
+svec4_clamp	mathc/mathc.c	/^struct vec4 svec4_clamp(struct vec4 v0, struct vec4 v1, struct vec4 v2)$/;"	f	typeref:struct:vec4
+svec4_divide	mathc/mathc.c	/^struct vec4 svec4_divide(struct vec4 v0, struct vec4 v1)$/;"	f	typeref:struct:vec4
+svec4_divide_f	mathc/mathc.c	/^struct vec4 svec4_divide_f(struct vec4 v0, mfloat_t f)$/;"	f	typeref:struct:vec4
+svec4_floor	mathc/mathc.c	/^struct vec4 svec4_floor(struct vec4 v0)$/;"	f	typeref:struct:vec4
+svec4_is_equal	mathc/mathc.c	/^bool svec4_is_equal(struct vec4 v0, struct vec4 v1)$/;"	f	typeref:typename:bool
+svec4_is_zero	mathc/mathc.c	/^bool svec4_is_zero(struct vec4 v0)$/;"	f	typeref:typename:bool
+svec4_lerp	mathc/mathc.c	/^struct vec4 svec4_lerp(struct vec4 v0, struct vec4 v1, mfloat_t f)$/;"	f	typeref:struct:vec4
+svec4_max	mathc/mathc.c	/^struct vec4 svec4_max(struct vec4 v0, struct vec4 v1)$/;"	f	typeref:struct:vec4
+svec4_min	mathc/mathc.c	/^struct vec4 svec4_min(struct vec4 v0, struct vec4 v1)$/;"	f	typeref:struct:vec4
+svec4_multiply	mathc/mathc.c	/^struct vec4 svec4_multiply(struct vec4 v0, struct vec4 v1)$/;"	f	typeref:struct:vec4
+svec4_multiply_f	mathc/mathc.c	/^struct vec4 svec4_multiply_f(struct vec4 v0, mfloat_t f)$/;"	f	typeref:struct:vec4
+svec4_multiply_mat4	mathc/mathc.c	/^struct vec4 svec4_multiply_mat4(struct vec4 v0, struct mat4 m0)$/;"	f	typeref:struct:vec4
+svec4_negative	mathc/mathc.c	/^struct vec4 svec4_negative(struct vec4 v0)$/;"	f	typeref:struct:vec4
+svec4_normalize	mathc/mathc.c	/^struct vec4 svec4_normalize(struct vec4 v0)$/;"	f	typeref:struct:vec4
+svec4_one	mathc/mathc.c	/^struct vec4 svec4_one(void)$/;"	f	typeref:struct:vec4
+svec4_round	mathc/mathc.c	/^struct vec4 svec4_round(struct vec4 v0)$/;"	f	typeref:struct:vec4
+svec4_sign	mathc/mathc.c	/^struct vec4 svec4_sign(struct vec4 v0)$/;"	f	typeref:struct:vec4
+svec4_snap	mathc/mathc.c	/^struct vec4 svec4_snap(struct vec4 v0, struct vec4 v1)$/;"	f	typeref:struct:vec4
+svec4_snap_f	mathc/mathc.c	/^struct vec4 svec4_snap_f(struct vec4 v0, mfloat_t f)$/;"	f	typeref:struct:vec4
+svec4_subtract	mathc/mathc.c	/^struct vec4 svec4_subtract(struct vec4 v0, struct vec4 v1)$/;"	f	typeref:struct:vec4
+svec4_subtract_f	mathc/mathc.c	/^struct vec4 svec4_subtract_f(struct vec4 v0, mfloat_t f)$/;"	f	typeref:struct:vec4
+svec4_zero	mathc/mathc.c	/^struct vec4 svec4_zero(void)$/;"	f	typeref:struct:vec4
+svec4i	mathc/mathc.c	/^struct vec4i svec4i(mint_t x, mint_t y, mint_t z, mint_t w)$/;"	f	typeref:struct:vec4i
+svec4i_abs	mathc/mathc.c	/^struct vec4i svec4i_abs(struct vec4i v0)$/;"	f	typeref:struct:vec4i
+svec4i_add	mathc/mathc.c	/^struct vec4i svec4i_add(struct vec4i v0, struct vec4i v1)$/;"	f	typeref:struct:vec4i
+svec4i_add_i	mathc/mathc.c	/^struct vec4i svec4i_add_i(struct vec4i v0, mint_t i)$/;"	f	typeref:struct:vec4i
+svec4i_assign	mathc/mathc.c	/^struct vec4i svec4i_assign(struct vec4i v0)$/;"	f	typeref:struct:vec4i
+svec4i_assign_vec4	mathc/mathc.c	/^struct vec4i svec4i_assign_vec4(struct vec4 v0)$/;"	f	typeref:struct:vec4i
+svec4i_clamp	mathc/mathc.c	/^struct vec4i svec4i_clamp(struct vec4i v0, struct vec4i v1, struct vec4i v2)$/;"	f	typeref:struct:vec4i
+svec4i_divide	mathc/mathc.c	/^struct vec4i svec4i_divide(struct vec4i v0, struct vec4i v1)$/;"	f	typeref:struct:vec4i
+svec4i_divide_i	mathc/mathc.c	/^struct vec4i svec4i_divide_i(struct vec4i v0, mint_t i)$/;"	f	typeref:struct:vec4i
+svec4i_is_equal	mathc/mathc.c	/^bool svec4i_is_equal(struct vec4i v0, struct vec4i v1)$/;"	f	typeref:typename:bool
+svec4i_is_zero	mathc/mathc.c	/^bool svec4i_is_zero(struct vec4i v0)$/;"	f	typeref:typename:bool
+svec4i_max	mathc/mathc.c	/^struct vec4i svec4i_max(struct vec4i v0, struct vec4i v1)$/;"	f	typeref:struct:vec4i
+svec4i_min	mathc/mathc.c	/^struct vec4i svec4i_min(struct vec4i v0, struct vec4i v1)$/;"	f	typeref:struct:vec4i
+svec4i_multiply	mathc/mathc.c	/^struct vec4i svec4i_multiply(struct vec4i v0, struct vec4i v1)$/;"	f	typeref:struct:vec4i
+svec4i_multiply_i	mathc/mathc.c	/^struct vec4i svec4i_multiply_i(struct vec4i v0, mint_t i)$/;"	f	typeref:struct:vec4i
+svec4i_negative	mathc/mathc.c	/^struct vec4i svec4i_negative(struct vec4i v0)$/;"	f	typeref:struct:vec4i
+svec4i_one	mathc/mathc.c	/^struct vec4i svec4i_one(void)$/;"	f	typeref:struct:vec4i
+svec4i_sign	mathc/mathc.c	/^struct vec4i svec4i_sign(struct vec4i v0)$/;"	f	typeref:struct:vec4i
+svec4i_snap	mathc/mathc.c	/^struct vec4i svec4i_snap(struct vec4i v0, struct vec4i v1)$/;"	f	typeref:struct:vec4i
+svec4i_snap_i	mathc/mathc.c	/^struct vec4i svec4i_snap_i(struct vec4i v0, mint_t i)$/;"	f	typeref:struct:vec4i
+svec4i_subtract	mathc/mathc.c	/^struct vec4i svec4i_subtract(struct vec4i v0, struct vec4i v1)$/;"	f	typeref:struct:vec4i
+svec4i_subtract_i	mathc/mathc.c	/^struct vec4i svec4i_subtract_i(struct vec4i v0, mint_t i)$/;"	f	typeref:struct:vec4i
+svec4i_zero	mathc/mathc.c	/^struct vec4i svec4i_zero(void)$/;"	f	typeref:struct:vec4i
+table.concat	mesh.lua	/^function table.concat(a, b)$/;"	f
+to_degrees	mathc/mathc.c	/^mfloat_t to_degrees(mfloat_t radians)$/;"	f	typeref:typename:mfloat_t
+to_radians	mathc/mathc.c	/^mfloat_t to_radians(mfloat_t degrees)$/;"	f	typeref:typename:mfloat_t
+v	mathc/mathc.h	/^		mfloat_t v[MAT2_SIZE];$/;"	m	union:mat2::__anonf469b2e40f0a	typeref:typename:mfloat_t[]
+v	mathc/mathc.h	/^		mfloat_t v[MAT3_SIZE];$/;"	m	union:mat3::__anonf469b2e4110a	typeref:typename:mfloat_t[]
+v	mathc/mathc.h	/^		mfloat_t v[MAT4_SIZE];$/;"	m	union:mat4::__anonf469b2e4130a	typeref:typename:mfloat_t[]
+v	mathc/mathc.h	/^		mfloat_t v[QUAT_SIZE];$/;"	m	union:quat::__anonf469b2e40d0a	typeref:typename:mfloat_t[]
+v	mathc/mathc.h	/^		mfloat_t v[VEC2_SIZE];$/;"	m	union:vec2::__anonf469b2e4070a	typeref:typename:mfloat_t[]
+v	mathc/mathc.h	/^		mfloat_t v[VEC3_SIZE];$/;"	m	union:vec3::__anonf469b2e4090a	typeref:typename:mfloat_t[]
+v	mathc/mathc.h	/^		mfloat_t v[VEC4_SIZE];$/;"	m	union:vec4::__anonf469b2e40b0a	typeref:typename:mfloat_t[]
+v	mathc/mathc.h	/^		mint_t v[VEC2_SIZE];$/;"	m	union:vec2i::__anonf469b2e4010a	typeref:typename:mint_t[]
+v	mathc/mathc.h	/^		mint_t v[VEC3_SIZE];$/;"	m	union:vec3i::__anonf469b2e4030a	typeref:typename:mint_t[]
+v	mathc/mathc.h	/^		mint_t v[VEC4_SIZE];$/;"	m	union:vec4i::__anonf469b2e4050a	typeref:typename:mint_t[]
+v	mathc_stripped.h	/^  mfloat_t v[16];$/;"	m	union:mat4::__anonc0333d72130a	typeref:typename:mfloat_t[16]
+v	mathc_stripped.h	/^  mfloat_t v[2];$/;"	m	union:vec2::__anonc0333d72070a	typeref:typename:mfloat_t[2]
+v	mathc_stripped.h	/^  mfloat_t v[3];$/;"	m	union:vec3::__anonc0333d72090a	typeref:typename:mfloat_t[3]
+v	mathc_stripped.h	/^  mfloat_t v[4];$/;"	m	union:mat2::__anonc0333d720f0a	typeref:typename:mfloat_t[4]
+v	mathc_stripped.h	/^  mfloat_t v[4];$/;"	m	union:quat::__anonc0333d720d0a	typeref:typename:mfloat_t[4]
+v	mathc_stripped.h	/^  mfloat_t v[4];$/;"	m	union:vec4::__anonc0333d720b0a	typeref:typename:mfloat_t[4]
+v	mathc_stripped.h	/^  mfloat_t v[9];$/;"	m	union:mat3::__anonc0333d72110a	typeref:typename:mfloat_t[9]
+v	mathc_stripped.h	/^  mint_t v[2];$/;"	m	union:vec2i::__anonc0333d72010a	typeref:typename:mint_t[2]
+v	mathc_stripped.h	/^  mint_t v[3];$/;"	m	union:vec3i::__anonc0333d72030a	typeref:typename:mint_t[3]
+v	mathc_stripped.h	/^  mint_t v[4];$/;"	m	union:vec4i::__anonc0333d72050a	typeref:typename:mint_t[4]
+vec2	mathc/mathc.c	/^mfloat_t *vec2(mfloat_t *result, mfloat_t x, mfloat_t y)$/;"	f	typeref:typename:mfloat_t *
+vec2	mathc/mathc.h	/^struct vec2 {$/;"	s
+vec2	mathc_stripped.h	/^struct vec2 {$/;"	s
+vec2_abs	mathc/mathc.c	/^mfloat_t *vec2_abs(mfloat_t *result, mfloat_t *v0)$/;"	f	typeref:typename:mfloat_t *
+vec2_add	mathc/mathc.c	/^mfloat_t *vec2_add(mfloat_t *result, mfloat_t *v0, mfloat_t *v1)$/;"	f	typeref:typename:mfloat_t *
+vec2_add_f	mathc/mathc.c	/^mfloat_t *vec2_add_f(mfloat_t *result, mfloat_t *v0, mfloat_t f)$/;"	f	typeref:typename:mfloat_t *
+vec2_angle	mathc/mathc.c	/^mfloat_t vec2_angle(mfloat_t *v0)$/;"	f	typeref:typename:mfloat_t
+vec2_assign	mathc/mathc.c	/^mfloat_t *vec2_assign(mfloat_t *result, mfloat_t *v0)$/;"	f	typeref:typename:mfloat_t *
+vec2_assign_vec2i	mathc/mathc.c	/^mfloat_t *vec2_assign_vec2i(mfloat_t *result, mint_t *v0)$/;"	f	typeref:typename:mfloat_t *
+vec2_bezier3	mathc/mathc.c	/^mfloat_t *vec2_bezier3(mfloat_t *result, mfloat_t *v0, mfloat_t *v1, mfloat_t *v2, mfloat_t f)$/;"	f	typeref:typename:mfloat_t *
+vec2_bezier4	mathc/mathc.c	/^mfloat_t *vec2_bezier4(mfloat_t *result, mfloat_t *v0, mfloat_t *v1, mfloat_t *v2, mfloat_t *v3,/;"	f	typeref:typename:mfloat_t *
+vec2_ceil	mathc/mathc.c	/^mfloat_t *vec2_ceil(mfloat_t *result, mfloat_t *v0)$/;"	f	typeref:typename:mfloat_t *
+vec2_clamp	mathc/mathc.c	/^mfloat_t *vec2_clamp(mfloat_t *result, mfloat_t *v0, mfloat_t *v1, mfloat_t *v2)$/;"	f	typeref:typename:mfloat_t *
+vec2_distance	mathc/mathc.c	/^mfloat_t vec2_distance(mfloat_t *v0, mfloat_t *v1)$/;"	f	typeref:typename:mfloat_t
+vec2_distance_squared	mathc/mathc.c	/^mfloat_t vec2_distance_squared(mfloat_t *v0, mfloat_t *v1)$/;"	f	typeref:typename:mfloat_t
+vec2_divide	mathc/mathc.c	/^mfloat_t *vec2_divide(mfloat_t *result, mfloat_t *v0, mfloat_t *v1)$/;"	f	typeref:typename:mfloat_t *
+vec2_divide_f	mathc/mathc.c	/^mfloat_t *vec2_divide_f(mfloat_t *result, mfloat_t *v0, mfloat_t f)$/;"	f	typeref:typename:mfloat_t *
+vec2_dot	mathc/mathc.c	/^mfloat_t vec2_dot(mfloat_t *v0, mfloat_t *v1)$/;"	f	typeref:typename:mfloat_t
+vec2_floor	mathc/mathc.c	/^mfloat_t *vec2_floor(mfloat_t *result, mfloat_t *v0)$/;"	f	typeref:typename:mfloat_t *
+vec2_is_equal	mathc/mathc.c	/^bool vec2_is_equal(mfloat_t *v0, mfloat_t *v1)$/;"	f	typeref:typename:bool
+vec2_is_zero	mathc/mathc.c	/^bool vec2_is_zero(mfloat_t *v0)$/;"	f	typeref:typename:bool
+vec2_length	mathc/mathc.c	/^mfloat_t vec2_length(mfloat_t *v0)$/;"	f	typeref:typename:mfloat_t
+vec2_length_squared	mathc/mathc.c	/^mfloat_t vec2_length_squared(mfloat_t *v0)$/;"	f	typeref:typename:mfloat_t
+vec2_lerp	mathc/mathc.c	/^mfloat_t *vec2_lerp(mfloat_t *result, mfloat_t *v0, mfloat_t *v1, mfloat_t f)$/;"	f	typeref:typename:mfloat_t *
+vec2_linear_independent	mathc/mathc.c	/^bool vec2_linear_independent(mfloat_t *v0, mfloat_t *v1)$/;"	f	typeref:typename:bool
+vec2_max	mathc/mathc.c	/^mfloat_t *vec2_max(mfloat_t *result, mfloat_t *v0, mfloat_t *v1)$/;"	f	typeref:typename:mfloat_t *
+vec2_min	mathc/mathc.c	/^mfloat_t *vec2_min(mfloat_t *result, mfloat_t *v0, mfloat_t *v1)$/;"	f	typeref:typename:mfloat_t *
+vec2_multiply	mathc/mathc.c	/^mfloat_t *vec2_multiply(mfloat_t *result, mfloat_t *v0, mfloat_t *v1)$/;"	f	typeref:typename:mfloat_t *
+vec2_multiply_f	mathc/mathc.c	/^mfloat_t *vec2_multiply_f(mfloat_t *result, mfloat_t *v0, mfloat_t f)$/;"	f	typeref:typename:mfloat_t *
+vec2_multiply_mat2	mathc/mathc.c	/^mfloat_t *vec2_multiply_mat2(mfloat_t *result, mfloat_t *v0, mfloat_t *m0)$/;"	f	typeref:typename:mfloat_t *
+vec2_negative	mathc/mathc.c	/^mfloat_t *vec2_negative(mfloat_t *result, mfloat_t *v0)$/;"	f	typeref:typename:mfloat_t *
+vec2_normalize	mathc/mathc.c	/^mfloat_t *vec2_normalize(mfloat_t *result, mfloat_t *v0)$/;"	f	typeref:typename:mfloat_t *
+vec2_one	mathc/mathc.c	/^mfloat_t *vec2_one(mfloat_t *result)$/;"	f	typeref:typename:mfloat_t *
+vec2_orthonormalization	mathc/mathc.c	/^mfloat_t** vec2_orthonormalization(mfloat_t result[2][2], mfloat_t basis[2][2])$/;"	f	typeref:typename:mfloat_t **
+vec2_project	mathc/mathc.c	/^mfloat_t *vec2_project(mfloat_t *result, mfloat_t *v0, mfloat_t *v1)$/;"	f	typeref:typename:mfloat_t *
+vec2_reflect	mathc/mathc.c	/^mfloat_t *vec2_reflect(mfloat_t *result, mfloat_t *v0, mfloat_t *normal)$/;"	f	typeref:typename:mfloat_t *
+vec2_rotate	mathc/mathc.c	/^mfloat_t *vec2_rotate(mfloat_t *result, mfloat_t *v0, mfloat_t f)$/;"	f	typeref:typename:mfloat_t *
+vec2_round	mathc/mathc.c	/^mfloat_t *vec2_round(mfloat_t *result, mfloat_t *v0)$/;"	f	typeref:typename:mfloat_t *
+vec2_sign	mathc/mathc.c	/^mfloat_t *vec2_sign(mfloat_t *result, mfloat_t *v0)$/;"	f	typeref:typename:mfloat_t *
+vec2_slide	mathc/mathc.c	/^mfloat_t *vec2_slide(mfloat_t *result, mfloat_t *v0, mfloat_t *normal)$/;"	f	typeref:typename:mfloat_t *
+vec2_snap	mathc/mathc.c	/^mfloat_t *vec2_snap(mfloat_t *result, mfloat_t *v0, mfloat_t *v1)$/;"	f	typeref:typename:mfloat_t *
+vec2_snap_f	mathc/mathc.c	/^mfloat_t *vec2_snap_f(mfloat_t *result, mfloat_t *v0, mfloat_t f)$/;"	f	typeref:typename:mfloat_t *
+vec2_subtract	mathc/mathc.c	/^mfloat_t *vec2_subtract(mfloat_t *result, mfloat_t *v0, mfloat_t *v1)$/;"	f	typeref:typename:mfloat_t *
+vec2_subtract_f	mathc/mathc.c	/^mfloat_t *vec2_subtract_f(mfloat_t *result, mfloat_t *v0, mfloat_t f)$/;"	f	typeref:typename:mfloat_t *
+vec2_tangent	mathc/mathc.c	/^mfloat_t *vec2_tangent(mfloat_t *result, mfloat_t *v0)$/;"	f	typeref:typename:mfloat_t *
+vec2_zero	mathc/mathc.c	/^mfloat_t *vec2_zero(mfloat_t *result)$/;"	f	typeref:typename:mfloat_t *
+vec2i	mathc/mathc.c	/^mint_t *vec2i(mint_t *result, mint_t x, mint_t y)$/;"	f	typeref:typename:mint_t *
+vec2i	mathc/mathc.h	/^struct vec2i {$/;"	s
+vec2i	mathc_stripped.h	/^struct vec2i {$/;"	s
+vec2i_abs	mathc/mathc.c	/^mint_t *vec2i_abs(mint_t *result, mint_t *v0)$/;"	f	typeref:typename:mint_t *
+vec2i_add	mathc/mathc.c	/^mint_t *vec2i_add(mint_t *result, mint_t *v0, mint_t *v1)$/;"	f	typeref:typename:mint_t *
+vec2i_add_i	mathc/mathc.c	/^mint_t *vec2i_add_i(mint_t *result, mint_t *v0, mint_t i)$/;"	f	typeref:typename:mint_t *
+vec2i_assign	mathc/mathc.c	/^mint_t *vec2i_assign(mint_t *result, mint_t *v0)$/;"	f	typeref:typename:mint_t *
+vec2i_assign_vec2	mathc/mathc.c	/^mint_t *vec2i_assign_vec2(mint_t *result, mfloat_t *v0)$/;"	f	typeref:typename:mint_t *
+vec2i_clamp	mathc/mathc.c	/^mint_t *vec2i_clamp(mint_t *result, mint_t *v0, mint_t *v1, mint_t *v2)$/;"	f	typeref:typename:mint_t *
+vec2i_divide	mathc/mathc.c	/^mint_t *vec2i_divide(mint_t *result, mint_t *v0, mint_t *v1)$/;"	f	typeref:typename:mint_t *
+vec2i_divide_i	mathc/mathc.c	/^mint_t *vec2i_divide_i(mint_t *result, mint_t *v0, mint_t i)$/;"	f	typeref:typename:mint_t *
+vec2i_is_equal	mathc/mathc.c	/^bool vec2i_is_equal(mint_t *v0, mint_t *v1)$/;"	f	typeref:typename:bool
+vec2i_is_zero	mathc/mathc.c	/^bool vec2i_is_zero(mint_t *v0)$/;"	f	typeref:typename:bool
+vec2i_max	mathc/mathc.c	/^mint_t *vec2i_max(mint_t *result, mint_t *v0, mint_t *v1)$/;"	f	typeref:typename:mint_t *
+vec2i_min	mathc/mathc.c	/^mint_t *vec2i_min(mint_t *result, mint_t *v0, mint_t *v1)$/;"	f	typeref:typename:mint_t *
+vec2i_multiply	mathc/mathc.c	/^mint_t *vec2i_multiply(mint_t *result, mint_t *v0, mint_t *v1)$/;"	f	typeref:typename:mint_t *
+vec2i_multiply_i	mathc/mathc.c	/^mint_t *vec2i_multiply_i(mint_t *result, mint_t *v0, mint_t i)$/;"	f	typeref:typename:mint_t *
+vec2i_negative	mathc/mathc.c	/^mint_t *vec2i_negative(mint_t *result, mint_t *v0)$/;"	f	typeref:typename:mint_t *
+vec2i_one	mathc/mathc.c	/^mint_t *vec2i_one(mint_t *result)$/;"	f	typeref:typename:mint_t *
+vec2i_sign	mathc/mathc.c	/^mint_t *vec2i_sign(mint_t *result, mint_t *v0)$/;"	f	typeref:typename:mint_t *
+vec2i_snap	mathc/mathc.c	/^mint_t *vec2i_snap(mint_t *result, mint_t *v0, mint_t *v1)$/;"	f	typeref:typename:mint_t *
+vec2i_snap_i	mathc/mathc.c	/^mint_t *vec2i_snap_i(mint_t *result, mint_t *v0, mint_t i)$/;"	f	typeref:typename:mint_t *
+vec2i_subtract	mathc/mathc.c	/^mint_t *vec2i_subtract(mint_t *result, mint_t *v0, mint_t *v1)$/;"	f	typeref:typename:mint_t *
+vec2i_subtract_i	mathc/mathc.c	/^mint_t *vec2i_subtract_i(mint_t *result, mint_t *v0, mint_t i)$/;"	f	typeref:typename:mint_t *
+vec2i_tangent	mathc/mathc.c	/^mint_t *vec2i_tangent(mint_t *result, mint_t *v0)$/;"	f	typeref:typename:mint_t *
+vec2i_zero	mathc/mathc.c	/^mint_t *vec2i_zero(mint_t *result)$/;"	f	typeref:typename:mint_t *
+vec3	mathc/mathc.c	/^mfloat_t *vec3(mfloat_t *result, mfloat_t x, mfloat_t y, mfloat_t z)$/;"	f	typeref:typename:mfloat_t *
+vec3	mathc/mathc.h	/^struct vec3 {$/;"	s
+vec3	mathc_stripped.h	/^struct vec3 {$/;"	s
+vec3_abs	mathc/mathc.c	/^mfloat_t *vec3_abs(mfloat_t *result, mfloat_t *v0)$/;"	f	typeref:typename:mfloat_t *
+vec3_add	mathc/mathc.c	/^mfloat_t *vec3_add(mfloat_t *result, mfloat_t *v0, mfloat_t *v1)$/;"	f	typeref:typename:mfloat_t *
+vec3_add_f	mathc/mathc.c	/^mfloat_t *vec3_add_f(mfloat_t *result, mfloat_t *v0, mfloat_t f)$/;"	f	typeref:typename:mfloat_t *
+vec3_assign	mathc/mathc.c	/^mfloat_t *vec3_assign(mfloat_t *result, mfloat_t *v0)$/;"	f	typeref:typename:mfloat_t *
+vec3_assign_vec3i	mathc/mathc.c	/^mfloat_t *vec3_assign_vec3i(mfloat_t *result, mint_t *v0)$/;"	f	typeref:typename:mfloat_t *
+vec3_bezier3	mathc/mathc.c	/^mfloat_t *vec3_bezier3(mfloat_t *result, mfloat_t *v0, mfloat_t *v1, mfloat_t *v2, mfloat_t f)$/;"	f	typeref:typename:mfloat_t *
+vec3_bezier4	mathc/mathc.c	/^mfloat_t *vec3_bezier4(mfloat_t *result, mfloat_t *v0, mfloat_t *v1, mfloat_t *v2, mfloat_t *v3,/;"	f	typeref:typename:mfloat_t *
+vec3_ceil	mathc/mathc.c	/^mfloat_t *vec3_ceil(mfloat_t *result, mfloat_t *v0)$/;"	f	typeref:typename:mfloat_t *
+vec3_clamp	mathc/mathc.c	/^mfloat_t *vec3_clamp(mfloat_t *result, mfloat_t *v0, mfloat_t *v1, mfloat_t *v2)$/;"	f	typeref:typename:mfloat_t *
+vec3_cross	mathc/mathc.c	/^mfloat_t *vec3_cross(mfloat_t *result, mfloat_t *v0, mfloat_t *v1)$/;"	f	typeref:typename:mfloat_t *
+vec3_distance	mathc/mathc.c	/^mfloat_t vec3_distance(mfloat_t *v0, mfloat_t *v1)$/;"	f	typeref:typename:mfloat_t
+vec3_distance_squared	mathc/mathc.c	/^mfloat_t vec3_distance_squared(mfloat_t *v0, mfloat_t *v1)$/;"	f	typeref:typename:mfloat_t
+vec3_divide	mathc/mathc.c	/^mfloat_t *vec3_divide(mfloat_t *result, mfloat_t *v0, mfloat_t *v1)$/;"	f	typeref:typename:mfloat_t *
+vec3_divide_f	mathc/mathc.c	/^mfloat_t *vec3_divide_f(mfloat_t *result, mfloat_t *v0, mfloat_t f)$/;"	f	typeref:typename:mfloat_t *
+vec3_dot	mathc/mathc.c	/^mfloat_t vec3_dot(mfloat_t *v0, mfloat_t *v1)$/;"	f	typeref:typename:mfloat_t
+vec3_floor	mathc/mathc.c	/^mfloat_t *vec3_floor(mfloat_t *result, mfloat_t *v0)$/;"	f	typeref:typename:mfloat_t *
+vec3_is_equal	mathc/mathc.c	/^bool vec3_is_equal(mfloat_t *v0, mfloat_t *v1)$/;"	f	typeref:typename:bool
+vec3_is_zero	mathc/mathc.c	/^bool vec3_is_zero(mfloat_t *v0)$/;"	f	typeref:typename:bool
+vec3_length	mathc/mathc.c	/^mfloat_t vec3_length(mfloat_t *v0)$/;"	f	typeref:typename:mfloat_t
+vec3_length_squared	mathc/mathc.c	/^mfloat_t vec3_length_squared(mfloat_t *v0)$/;"	f	typeref:typename:mfloat_t
+vec3_lerp	mathc/mathc.c	/^mfloat_t *vec3_lerp(mfloat_t *result, mfloat_t *v0, mfloat_t *v1, mfloat_t f)$/;"	f	typeref:typename:mfloat_t *
+vec3_linear_independent	mathc/mathc.c	/^bool vec3_linear_independent(mfloat_t *v0, mfloat_t *v1, mfloat_t *v2)$/;"	f	typeref:typename:bool
+vec3_max	mathc/mathc.c	/^mfloat_t *vec3_max(mfloat_t *result, mfloat_t *v0, mfloat_t *v1)$/;"	f	typeref:typename:mfloat_t *
+vec3_min	mathc/mathc.c	/^mfloat_t *vec3_min(mfloat_t *result, mfloat_t *v0, mfloat_t *v1)$/;"	f	typeref:typename:mfloat_t *
+vec3_multiply	mathc/mathc.c	/^mfloat_t *vec3_multiply(mfloat_t *result, mfloat_t *v0, mfloat_t *v1)$/;"	f	typeref:typename:mfloat_t *
+vec3_multiply_f	mathc/mathc.c	/^mfloat_t *vec3_multiply_f(mfloat_t *result, mfloat_t *v0, mfloat_t f)$/;"	f	typeref:typename:mfloat_t *
+vec3_multiply_mat3	mathc/mathc.c	/^mfloat_t *vec3_multiply_mat3(mfloat_t *result, mfloat_t *v0, mfloat_t *m0)$/;"	f	typeref:typename:mfloat_t *
+vec3_negative	mathc/mathc.c	/^mfloat_t *vec3_negative(mfloat_t *result, mfloat_t *v0)$/;"	f	typeref:typename:mfloat_t *
+vec3_normalize	mathc/mathc.c	/^mfloat_t *vec3_normalize(mfloat_t *result, mfloat_t *v0)$/;"	f	typeref:typename:mfloat_t *
+vec3_one	mathc/mathc.c	/^mfloat_t *vec3_one(mfloat_t *result)$/;"	f	typeref:typename:mfloat_t *
+vec3_orthonormalization	mathc/mathc.c	/^mfloat_t** vec3_orthonormalization(mfloat_t result[3][3], mfloat_t basis[3][3])$/;"	f	typeref:typename:mfloat_t **
+vec3_project	mathc/mathc.c	/^mfloat_t *vec3_project(mfloat_t *result, mfloat_t *v0, mfloat_t *v1)$/;"	f	typeref:typename:mfloat_t *
+vec3_reflect	mathc/mathc.c	/^mfloat_t *vec3_reflect(mfloat_t *result, mfloat_t *v0, mfloat_t *normal)$/;"	f	typeref:typename:mfloat_t *
+vec3_rotate	mathc/mathc.c	/^mfloat_t *vec3_rotate(mfloat_t *result, mfloat_t *v0, mfloat_t *ra, mfloat_t f)$/;"	f	typeref:typename:mfloat_t *
+vec3_round	mathc/mathc.c	/^mfloat_t *vec3_round(mfloat_t *result, mfloat_t *v0)$/;"	f	typeref:typename:mfloat_t *
+vec3_sign	mathc/mathc.c	/^mfloat_t *vec3_sign(mfloat_t *result, mfloat_t *v0)$/;"	f	typeref:typename:mfloat_t *
+vec3_slide	mathc/mathc.c	/^mfloat_t *vec3_slide(mfloat_t *result, mfloat_t *v0, mfloat_t *normal)$/;"	f	typeref:typename:mfloat_t *
+vec3_snap	mathc/mathc.c	/^mfloat_t *vec3_snap(mfloat_t *result, mfloat_t *v0, mfloat_t *v1)$/;"	f	typeref:typename:mfloat_t *
+vec3_snap_f	mathc/mathc.c	/^mfloat_t *vec3_snap_f(mfloat_t *result, mfloat_t *v0, mfloat_t f)$/;"	f	typeref:typename:mfloat_t *
+vec3_subtract	mathc/mathc.c	/^mfloat_t *vec3_subtract(mfloat_t *result, mfloat_t *v0, mfloat_t *v1)$/;"	f	typeref:typename:mfloat_t *
+vec3_subtract_f	mathc/mathc.c	/^mfloat_t *vec3_subtract_f(mfloat_t *result, mfloat_t *v0, mfloat_t f)$/;"	f	typeref:typename:mfloat_t *
+vec3_zero	mathc/mathc.c	/^mfloat_t *vec3_zero(mfloat_t *result)$/;"	f	typeref:typename:mfloat_t *
+vec3i	mathc/mathc.c	/^mint_t *vec3i(mint_t *result, mint_t x, mint_t y, mint_t z)$/;"	f	typeref:typename:mint_t *
+vec3i	mathc/mathc.h	/^struct vec3i {$/;"	s
+vec3i	mathc_stripped.h	/^struct vec3i {$/;"	s
+vec3i_abs	mathc/mathc.c	/^mint_t *vec3i_abs(mint_t *result, mint_t *v0)$/;"	f	typeref:typename:mint_t *
+vec3i_add	mathc/mathc.c	/^mint_t *vec3i_add(mint_t *result, mint_t *v0, mint_t *v1)$/;"	f	typeref:typename:mint_t *
+vec3i_add_i	mathc/mathc.c	/^mint_t *vec3i_add_i(mint_t *result, mint_t *v0, mint_t i)$/;"	f	typeref:typename:mint_t *
+vec3i_assign	mathc/mathc.c	/^mint_t *vec3i_assign(mint_t *result, mint_t *v0)$/;"	f	typeref:typename:mint_t *
+vec3i_assign_vec3	mathc/mathc.c	/^mint_t *vec3i_assign_vec3(mint_t *result, mfloat_t *v0)$/;"	f	typeref:typename:mint_t *
+vec3i_clamp	mathc/mathc.c	/^mint_t *vec3i_clamp(mint_t *result, mint_t *v0, mint_t *v1, mint_t *v2)$/;"	f	typeref:typename:mint_t *
+vec3i_cross	mathc/mathc.c	/^mint_t *vec3i_cross(mint_t *result, mint_t *v0, mint_t *v1)$/;"	f	typeref:typename:mint_t *
+vec3i_divide	mathc/mathc.c	/^mint_t *vec3i_divide(mint_t *result, mint_t *v0, mint_t *v1)$/;"	f	typeref:typename:mint_t *
+vec3i_divide_i	mathc/mathc.c	/^mint_t *vec3i_divide_i(mint_t *result, mint_t *v0, mint_t i)$/;"	f	typeref:typename:mint_t *
+vec3i_is_equal	mathc/mathc.c	/^bool vec3i_is_equal(mint_t *v0, mint_t *v1)$/;"	f	typeref:typename:bool
+vec3i_is_zero	mathc/mathc.c	/^bool vec3i_is_zero(mint_t *v0)$/;"	f	typeref:typename:bool
+vec3i_max	mathc/mathc.c	/^mint_t *vec3i_max(mint_t *result, mint_t *v0, mint_t *v1)$/;"	f	typeref:typename:mint_t *
+vec3i_min	mathc/mathc.c	/^mint_t *vec3i_min(mint_t *result, mint_t *v0, mint_t *v1)$/;"	f	typeref:typename:mint_t *
+vec3i_multiply	mathc/mathc.c	/^mint_t *vec3i_multiply(mint_t *result, mint_t *v0, mint_t *v1)$/;"	f	typeref:typename:mint_t *
+vec3i_multiply_i	mathc/mathc.c	/^mint_t *vec3i_multiply_i(mint_t *result, mint_t *v0, mint_t i)$/;"	f	typeref:typename:mint_t *
+vec3i_negative	mathc/mathc.c	/^mint_t *vec3i_negative(mint_t *result, mint_t *v0)$/;"	f	typeref:typename:mint_t *
+vec3i_one	mathc/mathc.c	/^mint_t *vec3i_one(mint_t *result)$/;"	f	typeref:typename:mint_t *
+vec3i_sign	mathc/mathc.c	/^mint_t *vec3i_sign(mint_t *result, mint_t *v0)$/;"	f	typeref:typename:mint_t *
+vec3i_snap	mathc/mathc.c	/^mint_t *vec3i_snap(mint_t *result, mint_t *v0, mint_t *v1)$/;"	f	typeref:typename:mint_t *
+vec3i_snap_i	mathc/mathc.c	/^mint_t *vec3i_snap_i(mint_t *result, mint_t *v0, mint_t i)$/;"	f	typeref:typename:mint_t *
+vec3i_subtract	mathc/mathc.c	/^mint_t *vec3i_subtract(mint_t *result, mint_t *v0, mint_t *v1)$/;"	f	typeref:typename:mint_t *
+vec3i_subtract_i	mathc/mathc.c	/^mint_t *vec3i_subtract_i(mint_t *result, mint_t *v0, mint_t i)$/;"	f	typeref:typename:mint_t *
+vec3i_zero	mathc/mathc.c	/^mint_t *vec3i_zero(mint_t *result)$/;"	f	typeref:typename:mint_t *
+vec4	mathc/mathc.c	/^mfloat_t *vec4(mfloat_t *result, mfloat_t x, mfloat_t y, mfloat_t z, mfloat_t w)$/;"	f	typeref:typename:mfloat_t *
+vec4	mathc/mathc.h	/^struct vec4 {$/;"	s
+vec4	mathc_stripped.h	/^struct vec4 {$/;"	s
+vec4_abs	mathc/mathc.c	/^mfloat_t *vec4_abs(mfloat_t *result, mfloat_t *v0)$/;"	f	typeref:typename:mfloat_t *
+vec4_add	mathc/mathc.c	/^mfloat_t *vec4_add(mfloat_t *result, mfloat_t *v0, mfloat_t *v1)$/;"	f	typeref:typename:mfloat_t *
+vec4_add_f	mathc/mathc.c	/^mfloat_t *vec4_add_f(mfloat_t *result, mfloat_t *v0, mfloat_t f)$/;"	f	typeref:typename:mfloat_t *
+vec4_assign	mathc/mathc.c	/^mfloat_t *vec4_assign(mfloat_t *result, mfloat_t *v0)$/;"	f	typeref:typename:mfloat_t *
+vec4_assign_vec4i	mathc/mathc.c	/^mfloat_t *vec4_assign_vec4i(mfloat_t *result, mint_t *v0)$/;"	f	typeref:typename:mfloat_t *
+vec4_ceil	mathc/mathc.c	/^mfloat_t *vec4_ceil(mfloat_t *result, mfloat_t *v0)$/;"	f	typeref:typename:mfloat_t *
+vec4_clamp	mathc/mathc.c	/^mfloat_t *vec4_clamp(mfloat_t *result, mfloat_t *v0, mfloat_t *v1, mfloat_t *v2)$/;"	f	typeref:typename:mfloat_t *
+vec4_divide	mathc/mathc.c	/^mfloat_t *vec4_divide(mfloat_t *result, mfloat_t *v0, mfloat_t *v1)$/;"	f	typeref:typename:mfloat_t *
+vec4_divide_f	mathc/mathc.c	/^mfloat_t *vec4_divide_f(mfloat_t *result, mfloat_t *v0, mfloat_t f)$/;"	f	typeref:typename:mfloat_t *
+vec4_floor	mathc/mathc.c	/^mfloat_t *vec4_floor(mfloat_t *result, mfloat_t *v0)$/;"	f	typeref:typename:mfloat_t *
+vec4_is_equal	mathc/mathc.c	/^bool vec4_is_equal(mfloat_t *v0, mfloat_t *v1)$/;"	f	typeref:typename:bool
+vec4_is_zero	mathc/mathc.c	/^bool vec4_is_zero(mfloat_t *v0)$/;"	f	typeref:typename:bool
+vec4_lerp	mathc/mathc.c	/^mfloat_t *vec4_lerp(mfloat_t *result, mfloat_t *v0, mfloat_t *v1, mfloat_t f)$/;"	f	typeref:typename:mfloat_t *
+vec4_max	mathc/mathc.c	/^mfloat_t *vec4_max(mfloat_t *result, mfloat_t *v0, mfloat_t *v1)$/;"	f	typeref:typename:mfloat_t *
+vec4_min	mathc/mathc.c	/^mfloat_t *vec4_min(mfloat_t *result, mfloat_t *v0, mfloat_t *v1)$/;"	f	typeref:typename:mfloat_t *
+vec4_multiply	mathc/mathc.c	/^mfloat_t *vec4_multiply(mfloat_t *result, mfloat_t *v0, mfloat_t *v1)$/;"	f	typeref:typename:mfloat_t *
+vec4_multiply_f	mathc/mathc.c	/^mfloat_t *vec4_multiply_f(mfloat_t *result, mfloat_t *v0, mfloat_t f)$/;"	f	typeref:typename:mfloat_t *
+vec4_multiply_mat4	mathc/mathc.c	/^mfloat_t *vec4_multiply_mat4(mfloat_t *result, mfloat_t *v0, mfloat_t *m0)$/;"	f	typeref:typename:mfloat_t *
+vec4_negative	mathc/mathc.c	/^mfloat_t *vec4_negative(mfloat_t *result, mfloat_t *v0)$/;"	f	typeref:typename:mfloat_t *
+vec4_normalize	mathc/mathc.c	/^mfloat_t *vec4_normalize(mfloat_t *result, mfloat_t *v0)$/;"	f	typeref:typename:mfloat_t *
+vec4_one	mathc/mathc.c	/^mfloat_t *vec4_one(mfloat_t *result)$/;"	f	typeref:typename:mfloat_t *
+vec4_round	mathc/mathc.c	/^mfloat_t *vec4_round(mfloat_t *result, mfloat_t *v0)$/;"	f	typeref:typename:mfloat_t *
+vec4_sign	mathc/mathc.c	/^mfloat_t *vec4_sign(mfloat_t *result, mfloat_t *v0)$/;"	f	typeref:typename:mfloat_t *
+vec4_snap	mathc/mathc.c	/^mfloat_t *vec4_snap(mfloat_t *result, mfloat_t *v0, mfloat_t *v1)$/;"	f	typeref:typename:mfloat_t *
+vec4_snap_f	mathc/mathc.c	/^mfloat_t *vec4_snap_f(mfloat_t *result, mfloat_t *v0, mfloat_t f)$/;"	f	typeref:typename:mfloat_t *
+vec4_subtract	mathc/mathc.c	/^mfloat_t *vec4_subtract(mfloat_t *result, mfloat_t *v0, mfloat_t *v1)$/;"	f	typeref:typename:mfloat_t *
+vec4_subtract_f	mathc/mathc.c	/^mfloat_t *vec4_subtract_f(mfloat_t *result, mfloat_t *v0, mfloat_t f)$/;"	f	typeref:typename:mfloat_t *
+vec4_zero	mathc/mathc.c	/^mfloat_t *vec4_zero(mfloat_t *result)$/;"	f	typeref:typename:mfloat_t *
+vec4i	mathc/mathc.c	/^mint_t *vec4i(mint_t *result, mint_t x, mint_t y, mint_t z, mint_t w)$/;"	f	typeref:typename:mint_t *
+vec4i	mathc/mathc.h	/^struct vec4i {$/;"	s
+vec4i	mathc_stripped.h	/^struct vec4i {$/;"	s
+vec4i_abs	mathc/mathc.c	/^mint_t *vec4i_abs(mint_t *result, mint_t *v0)$/;"	f	typeref:typename:mint_t *
+vec4i_add	mathc/mathc.c	/^mint_t *vec4i_add(mint_t *result, mint_t *v0, mint_t *v1)$/;"	f	typeref:typename:mint_t *
+vec4i_add_i	mathc/mathc.c	/^mint_t *vec4i_add_i(mint_t *result, mint_t *v0, mint_t i)$/;"	f	typeref:typename:mint_t *
+vec4i_assign	mathc/mathc.c	/^mint_t *vec4i_assign(mint_t *result, mint_t *v0)$/;"	f	typeref:typename:mint_t *
+vec4i_assign_vec4	mathc/mathc.c	/^mint_t *vec4i_assign_vec4(mint_t *result, mfloat_t *v0)$/;"	f	typeref:typename:mint_t *
+vec4i_clamp	mathc/mathc.c	/^mint_t *vec4i_clamp(mint_t *result, mint_t *v0, mint_t *v1, mint_t *v2)$/;"	f	typeref:typename:mint_t *
+vec4i_divide	mathc/mathc.c	/^mint_t *vec4i_divide(mint_t *result, mint_t *v0, mint_t *v1)$/;"	f	typeref:typename:mint_t *
+vec4i_divide_i	mathc/mathc.c	/^mint_t *vec4i_divide_i(mint_t *result, mint_t *v0, mint_t i)$/;"	f	typeref:typename:mint_t *
+vec4i_is_equal	mathc/mathc.c	/^bool vec4i_is_equal(mint_t *v0, mint_t *v1)$/;"	f	typeref:typename:bool
+vec4i_is_zero	mathc/mathc.c	/^bool vec4i_is_zero(mint_t *v0)$/;"	f	typeref:typename:bool
+vec4i_max	mathc/mathc.c	/^mint_t *vec4i_max(mint_t *result, mint_t *v0, mint_t *v1)$/;"	f	typeref:typename:mint_t *
+vec4i_min	mathc/mathc.c	/^mint_t *vec4i_min(mint_t *result, mint_t *v0, mint_t *v1)$/;"	f	typeref:typename:mint_t *
+vec4i_multiply	mathc/mathc.c	/^mint_t *vec4i_multiply(mint_t *result, mint_t *v0, mint_t *v1)$/;"	f	typeref:typename:mint_t *
+vec4i_multiply_i	mathc/mathc.c	/^mint_t *vec4i_multiply_i(mint_t *result, mint_t *v0, mint_t i)$/;"	f	typeref:typename:mint_t *
+vec4i_negative	mathc/mathc.c	/^mint_t *vec4i_negative(mint_t *result, mint_t *v0)$/;"	f	typeref:typename:mint_t *
+vec4i_one	mathc/mathc.c	/^mint_t *vec4i_one(mint_t *result)$/;"	f	typeref:typename:mint_t *
+vec4i_sign	mathc/mathc.c	/^mint_t *vec4i_sign(mint_t *result, mint_t *v0)$/;"	f	typeref:typename:mint_t *
+vec4i_snap	mathc/mathc.c	/^mint_t *vec4i_snap(mint_t *result, mint_t *v0, mint_t *v1)$/;"	f	typeref:typename:mint_t *
+vec4i_snap_i	mathc/mathc.c	/^mint_t *vec4i_snap_i(mint_t *result, mint_t *v0, mint_t i)$/;"	f	typeref:typename:mint_t *
+vec4i_subtract	mathc/mathc.c	/^mint_t *vec4i_subtract(mint_t *result, mint_t *v0, mint_t *v1)$/;"	f	typeref:typename:mint_t *
+vec4i_subtract_i	mathc/mathc.c	/^mint_t *vec4i_subtract_i(mint_t *result, mint_t *v0, mint_t i)$/;"	f	typeref:typename:mint_t *
+vec4i_zero	mathc/mathc.c	/^mint_t *vec4i_zero(mint_t *result)$/;"	f	typeref:typename:mint_t *
+w	mathc/mathc.h	/^			mfloat_t w;$/;"	m	struct:quat::__anonf469b2e40d0a::__anonf469b2e40e08	typeref:typename:mfloat_t
+w	mathc/mathc.h	/^			mfloat_t w;$/;"	m	struct:vec4::__anonf469b2e40b0a::__anonf469b2e40c08	typeref:typename:mfloat_t
+w	mathc/mathc.h	/^			mint_t w;$/;"	m	struct:vec4i::__anonf469b2e4050a::__anonf469b2e40608	typeref:typename:mint_t
+w	mathc_stripped.h	/^   mfloat_t w;$/;"	m	struct:quat::__anonc0333d720d0a::__anonc0333d720e08	typeref:typename:mfloat_t
+w	mathc_stripped.h	/^   mfloat_t w;$/;"	m	struct:vec4::__anonc0333d720b0a::__anonc0333d720c08	typeref:typename:mfloat_t
+w	mathc_stripped.h	/^   mint_t w;$/;"	m	struct:vec4i::__anonc0333d72050a::__anonc0333d720608	typeref:typename:mint_t
+x	mathc/mathc.h	/^			mfloat_t x;$/;"	m	struct:quat::__anonf469b2e40d0a::__anonf469b2e40e08	typeref:typename:mfloat_t
+x	mathc/mathc.h	/^			mfloat_t x;$/;"	m	struct:vec2::__anonf469b2e4070a::__anonf469b2e40808	typeref:typename:mfloat_t
+x	mathc/mathc.h	/^			mfloat_t x;$/;"	m	struct:vec3::__anonf469b2e4090a::__anonf469b2e40a08	typeref:typename:mfloat_t
+x	mathc/mathc.h	/^			mfloat_t x;$/;"	m	struct:vec4::__anonf469b2e40b0a::__anonf469b2e40c08	typeref:typename:mfloat_t
+x	mathc/mathc.h	/^			mint_t x;$/;"	m	struct:vec2i::__anonf469b2e4010a::__anonf469b2e40208	typeref:typename:mint_t
+x	mathc/mathc.h	/^			mint_t x;$/;"	m	struct:vec3i::__anonf469b2e4030a::__anonf469b2e40408	typeref:typename:mint_t
+x	mathc/mathc.h	/^			mint_t x;$/;"	m	struct:vec4i::__anonf469b2e4050a::__anonf469b2e40608	typeref:typename:mint_t
+x	mathc_stripped.h	/^   mfloat_t x;$/;"	m	struct:quat::__anonc0333d720d0a::__anonc0333d720e08	typeref:typename:mfloat_t
+x	mathc_stripped.h	/^   mfloat_t x;$/;"	m	struct:vec2::__anonc0333d72070a::__anonc0333d720808	typeref:typename:mfloat_t
+x	mathc_stripped.h	/^   mfloat_t x;$/;"	m	struct:vec3::__anonc0333d72090a::__anonc0333d720a08	typeref:typename:mfloat_t
+x	mathc_stripped.h	/^   mfloat_t x;$/;"	m	struct:vec4::__anonc0333d720b0a::__anonc0333d720c08	typeref:typename:mfloat_t
+x	mathc_stripped.h	/^   mint_t x;$/;"	m	struct:vec2i::__anonc0333d72010a::__anonc0333d720208	typeref:typename:mint_t
+x	mathc_stripped.h	/^   mint_t x;$/;"	m	struct:vec3i::__anonc0333d72030a::__anonc0333d720408	typeref:typename:mint_t
+x	mathc_stripped.h	/^   mint_t x;$/;"	m	struct:vec4i::__anonc0333d72050a::__anonc0333d720608	typeref:typename:mint_t
+y	mathc/mathc.h	/^			mfloat_t y;$/;"	m	struct:quat::__anonf469b2e40d0a::__anonf469b2e40e08	typeref:typename:mfloat_t
+y	mathc/mathc.h	/^			mfloat_t y;$/;"	m	struct:vec2::__anonf469b2e4070a::__anonf469b2e40808	typeref:typename:mfloat_t
+y	mathc/mathc.h	/^			mfloat_t y;$/;"	m	struct:vec3::__anonf469b2e4090a::__anonf469b2e40a08	typeref:typename:mfloat_t
+y	mathc/mathc.h	/^			mfloat_t y;$/;"	m	struct:vec4::__anonf469b2e40b0a::__anonf469b2e40c08	typeref:typename:mfloat_t
+y	mathc/mathc.h	/^			mint_t y;$/;"	m	struct:vec2i::__anonf469b2e4010a::__anonf469b2e40208	typeref:typename:mint_t
+y	mathc/mathc.h	/^			mint_t y;$/;"	m	struct:vec3i::__anonf469b2e4030a::__anonf469b2e40408	typeref:typename:mint_t
+y	mathc/mathc.h	/^			mint_t y;$/;"	m	struct:vec4i::__anonf469b2e4050a::__anonf469b2e40608	typeref:typename:mint_t
+y	mathc_stripped.h	/^   mfloat_t y;$/;"	m	struct:quat::__anonc0333d720d0a::__anonc0333d720e08	typeref:typename:mfloat_t
+y	mathc_stripped.h	/^   mfloat_t y;$/;"	m	struct:vec2::__anonc0333d72070a::__anonc0333d720808	typeref:typename:mfloat_t
+y	mathc_stripped.h	/^   mfloat_t y;$/;"	m	struct:vec3::__anonc0333d72090a::__anonc0333d720a08	typeref:typename:mfloat_t
+y	mathc_stripped.h	/^   mfloat_t y;$/;"	m	struct:vec4::__anonc0333d720b0a::__anonc0333d720c08	typeref:typename:mfloat_t
+y	mathc_stripped.h	/^   mint_t y;$/;"	m	struct:vec2i::__anonc0333d72010a::__anonc0333d720208	typeref:typename:mint_t
+y	mathc_stripped.h	/^   mint_t y;$/;"	m	struct:vec3i::__anonc0333d72030a::__anonc0333d720408	typeref:typename:mint_t
+y	mathc_stripped.h	/^   mint_t y;$/;"	m	struct:vec4i::__anonc0333d72050a::__anonc0333d720608	typeref:typename:mint_t
+z	mathc/mathc.h	/^			mfloat_t z;$/;"	m	struct:quat::__anonf469b2e40d0a::__anonf469b2e40e08	typeref:typename:mfloat_t
+z	mathc/mathc.h	/^			mfloat_t z;$/;"	m	struct:vec3::__anonf469b2e4090a::__anonf469b2e40a08	typeref:typename:mfloat_t
+z	mathc/mathc.h	/^			mfloat_t z;$/;"	m	struct:vec4::__anonf469b2e40b0a::__anonf469b2e40c08	typeref:typename:mfloat_t
+z	mathc/mathc.h	/^			mint_t z;$/;"	m	struct:vec3i::__anonf469b2e4030a::__anonf469b2e40408	typeref:typename:mint_t
+z	mathc/mathc.h	/^			mint_t z;$/;"	m	struct:vec4i::__anonf469b2e4050a::__anonf469b2e40608	typeref:typename:mint_t
+z	mathc_stripped.h	/^   mfloat_t z;$/;"	m	struct:quat::__anonc0333d720d0a::__anonc0333d720e08	typeref:typename:mfloat_t
+z	mathc_stripped.h	/^   mfloat_t z;$/;"	m	struct:vec3::__anonc0333d72090a::__anonc0333d720a08	typeref:typename:mfloat_t
+z	mathc_stripped.h	/^   mfloat_t z;$/;"	m	struct:vec4::__anonc0333d720b0a::__anonc0333d720c08	typeref:typename:mfloat_t
+z	mathc_stripped.h	/^   mint_t z;$/;"	m	struct:vec3i::__anonc0333d72030a::__anonc0333d720408	typeref:typename:mint_t
+z	mathc_stripped.h	/^   mint_t z;$/;"	m	struct:vec4i::__anonc0333d72050a::__anonc0333d720608	typeref:typename:mint_t

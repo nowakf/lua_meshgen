@@ -5,7 +5,7 @@ local vec3 = require 'vmath'
 do
 	local scale = 0.1
 	local grid = Cube(scale)
-	local h, w, d = 50, 50, 50
+	local h, w, d = 20, 20, 50
 	for i=1,h*w*d-1 do
 		local x = (i % (h * w) % w)
 		local y = math.floor(i % (h * w) / w)
